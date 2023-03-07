@@ -1,0 +1,1162 @@
+﻿TaxNumber,TaxOrder,Taxon,Order,Family,Genus,Species,Subspecies,Common Name
+1,1201010000,Acinonyx,Carnivora,Felidae,Acinonyx,,,
+2,1201010100,Acinonyx jubatus,Carnivora,Felidae,Acinonyx,jubatus,,Cheetah
+3,1406010000,Aepyceros,Artiodactyla,Bovidae,Aepyceros,,,
+4,1406010100,Aepyceros melampus,Artiodactyla,Bovidae,Aepyceros,melampus,,Impala
+5,1406010101,Aepyceros melampus suara,Artiodactyla,Bovidae,Aepyceros,melampus,suara,Impala
+6,1406020000,Alcelaphus,Artiodactyla,Bovidae,Alcelaphus,,,
+7,1406020100,Alcelaphus buselaphus,Artiodactyla,Bovidae,Alcelaphus,buselaphus,,Hartebeest
+8,1406020101,Alcelaphus buselaphus cokii,Artiodactyla,Bovidae,Alcelaphus,buselaphus,cokii,Hartebeest
+10,1404010000,Alces,Artiodactyla,Cervidae,Alces,,,
+11,1404010100,Alces americanus,Artiodactyla,Cervidae,Alces,americanus,,Moose
+13,1205030100,Vulpes lagopus,Carnivora,Canidae,Vulpes,lagopus,,Arctic Fox
+14,1406050000,Ammodorcas,Artiodactyla,Bovidae,Ammodorcas,,,
+15,1406050100,Ammodorcas clarkei,Artiodactyla,Bovidae,Ammodorcas,clarkei,,Dibatag
+16,702040000,Ammospermophilus,Rodentia,Sciuridae,Ammospermophilus,,,
+17,702040100,Ammospermophilus harrisii,Rodentia,Sciuridae,Ammospermophilus,harrisii,,Harris's Antelope Squirrel
+18,702040200,Ammospermophilus leucurus,Rodentia,Sciuridae,Ammospermophilus,leucurus,,White-tailed Antelope Squirrel
+19,702040300,Ammospermophilus nelsoni,Rodentia,Sciuridae,Ammospermophilus,nelsoni,,Nelson's Antelope Squirrel
+20,1406190000,Ammotragus,Artiodactyla,Bovidae,Ammotragus,,,
+21,1406190100,Ammotragus lervia,Artiodactyla,Bovidae,Ammotragus,lervia,,Barbary Sheep
+22,1406060000,Antidorcas,Artiodactyla,Bovidae,Antidorcas,,,
+23,1406060100,Antidorcas marsupialis,Artiodactyla,Bovidae,Antidorcas,marsupialis,,Springbok
+24,1405010000,Antilocapra,Artiodactyla,Antilocapridae,Antilocapra,,,
+25,1405010100,Antilocapra americana,Artiodactyla,Antilocapridae,Antilocapra,americana,,Pronghorn
+26,1405000000,Antilocapridae,Artiodactyla,Antilocapridae,,,,
+27,1406070000,Antilope,Artiodactyla,Bovidae,Antilope,,,
+28,1406070100,Antilope cervicapra,Artiodactyla,Bovidae,Antilope,cervicapra,,Blackbuck
+29,1105010000,Antrozous,Chiroptera,Vespertilionidae,Antrozous,,,
+30,1105010100,Antrozous pallidus,Chiroptera,Vespertilionidae,Antrozous,pallidus,,Pallid Bat
+31,701010000,Aplodontia,Rodentia,Aplodontiidae,Aplodontia,,,
+32,701010100,Aplodontia rufa,Rodentia,Aplodontiidae,Aplodontia,rufa,,Mountain Beaver
+33,701010101,Aplodontia rufa nigra,Rodentia,Aplodontiidae,Aplodontia,rufa,nigra,Point Arena Mountain Beaver
+34,701000000,Aplodontiidae,Rodentia,Aplodontiidae,,,,
+35,707010000,Arborimus,Rodentia,Cricetidae,Arborimus,,,
+36,707010200,Arborimus pomo,Rodentia,Cricetidae,Arborimus,pomo,,Sonoma Tree Vole
+37,1400000000,Artiodactyla,Artiodactyla,,,,,
+38,1404040000,Axis,Artiodactyla,Cervidae,Axis,,,
+39,1404050100,Cervus nippon,Artiodactyla,Cervidae,Cervus,nippon,,Sika Deer
+40,1407010000,Balaenoptera,Artiodactyla,Balaenopteridae,Balaenoptera,,,
+41,1407010100,Balaenoptera acutorostrata,Artiodactyla,Balaenopteridae,Balaenoptera,acutorostrata,,Common Minke Whale
+42,1407000000,Balaenopteridae,Artiodactyla,Balaenopteridae,,,,
+43,1212010000,Bassariscus,Carnivora,Procyonidae,Bassariscus,,,
+44,1212010100,Bassariscus astutus,Carnivora,Procyonidae,Bassariscus,astutus,,Ringtail
+45,1002020000,Blarina,Soricomorpha,Soricidae,Blarina,,,
+46,1002020100,Blarina brevicauda,Soricomorpha,Soricidae,Blarina,brevicauda,,Northern Short-tailed Shrew
+47,1406150000,Bos,Artiodactyla,Bovidae,Bos,,,
+48,1406150400,Bos bison,Artiodactyla,Bovidae,Bos,bison,,American Bison
+49,1406150200,Bos grunniens,Artiodactyla,Bovidae,Bos,grunniens,,Domestic Yak
+50,1406150300,Bos taurus,Artiodactyla,Bovidae,Bos,taurus,,Domestic Cattle
+51,1406000000,Bovidae,Artiodactyla,Bovidae,,,,
+53,1207010000,Callorhinus,Carnivora,Otariidae,Callorhinus,,,
+54,1207010100,Callorhinus ursinus,Carnivora,Otariidae,Callorhinus,ursinus,,Northern Fur Seal
+55,1403000000,Camelidae,Artiodactyla,Camelidae,,,,
+56,1205000000,Canidae,Carnivora,Canidae,,,,
+57,1205010000,Canis,Carnivora,Canidae,Canis,,,
+58,1205010400,Canis familiaris,Carnivora,Canidae,Canis,familiaris,,Domestic Dog
+59,1205010200,Canis latrans,Carnivora,Canidae,Canis,latrans,,Coyote
+60,1205010300,Canis lupus,Carnivora,Canidae,Canis,lupus,,Gray Wolf
+61,1205010500,Canis mesomelas,Carnivora,Canidae,Canis,mesomelas,,Black-backed Jackal
+62,1406200000,Capra,Artiodactyla,Bovidae,Capra,,,
+63,1406200100,Capra hircus,Artiodactyla,Bovidae,Capra,hircus,,Domestic Goat
+64,1200000000,Carnivora,Carnivora,,,,,
+65,703010000,Castor,Rodentia,Castoridae,Castor,,,
+66,703010100,Castor canadensis,Rodentia,Castoridae,Castor,canadensis,,North American Beaver
+67,703000000,Castoridae,Rodentia,Castoridae,,,,
+68,712010000,Cavia,Rodentia,Caviidae,Cavia,,,
+69,712010100,Cavia porcellus,Rodentia,Caviidae,Cavia,porcellus,,Guinea Pig
+70,712000000,Caviidae,Rodentia,Caviidae,,,,
+71,603000000,Cebidae,Primates,Cebidae,,,,
+72,1406240000,Cephalophus,Artiodactyla,Bovidae,Cephalophus,,,
+73,1406240100,Cephalophus natalensis,Artiodactyla,Bovidae,Cephalophus,natalensis,,Red Duiker
+74,604000000,Cercopithecidae,Primates,Cercopithecidae,,,,
+75,604010000,Cercopithecus,Primates,Cercopithecidae,Cercopithecus,,,
+76,1404000000,Cervidae,Artiodactyla,Cervidae,,,,
+77,1404050000,Cervus,Artiodactyla,Cervidae,Cervus,,,
+78,1404050200,Cervus canadensis,Artiodactyla,Cervidae,Cervus,canadensis,,Elk
+79,1404050201,Cervus canadensis nannodes,Artiodactyla,Cervidae,Cervus,canadensis,nannodes,Tule Elk
+80,1404050202,Cervus canadensis nelsoni,Artiodactyla,Cervidae,Cervus,canadensis,nelsoni,Rocky Mountain Elk
+81,1404050203,Cervus canadensis roosevelti,Artiodactyla,Cervidae,Cervus,canadensis,roosevelti,Roosevelt Elk
+82,1404060300,Rusa marianna,Artiodactyla,Cervidae,Rusa,marianna,,Philippine Deer
+85,1104010000,Chaerephon,Chiroptera,Molossidae,Chaerephon,,,
+86,1104010100,Chaerephon pumilus,Chiroptera,Molossidae,Chaerephon,pumilus,,Little Free-tailed Bat
+87,704030000,Chaetodipus,Rodentia,Heteromyidae,Chaetodipus,,,
+88,704030100,Chaetodipus fallax,Rodentia,Heteromyidae,Chaetodipus,fallax,,San Diego Pocket Mouse
+89,704030200,Chaetodipus penicillatus,Rodentia,Heteromyidae,Chaetodipus,penicillatus,,Desert Pocket Mouse
+90,711010000,Chinchilla,Rodentia,Chinchillidae,Chinchilla,,,
+91,711010100,Chinchilla lanigera,Rodentia,Chinchillidae,Chinchilla,lanigera,,Long-tailed Chinchilla
+92,711000000,Chinchillidae,Rodentia,Chinchillidae,,,,
+93,1100000000,Chiroptera,Chiroptera,,,,,
+94,707060000,Myodes,Rodentia,Cricetidae,Myodes,,,
+95,707060100,Myodes californicus,Rodentia,Cricetidae,Myodes,californicus,,Western Red-backed Vole
+96,707060101,Myodes californicus californicus,Rodentia,Cricetidae,Myodes,californicus,californicus,Western Red-backed Vole
+97,707060200,Myodes gapperi,Rodentia,Cricetidae,Myodes,gapperi,,Southern Red-backed Vole
+98,707060300,Myodes rutilus,Rodentia,Cricetidae,Myodes,rutilus,,Northern Red-backed Vole
+99,1406030000,Connochaetes,Artiodactyla,Bovidae,Connochaetes,,,
+100,1406030100,Connochaetes gnou,Artiodactyla,Bovidae,Connochaetes,gnou,,Black Wildebeest
+101,1406030200,Connochaetes taurinus,Artiodactyla,Bovidae,Connochaetes,taurinus,,Blue Wildebeest
+102,1204010000,Crocuta,Carnivora,Hyaenidae,Crocuta,,,
+103,1204010100,Crocuta crocuta,Carnivora,Hyaenidae,Crocuta,crocuta,,Spotted Hyena
+104,702050000,Cynomys,Rodentia,Sciuridae,Cynomys,,,
+105,702050100,Cynomys gunnisoni,Rodentia,Sciuridae,Cynomys,gunnisoni,,Gunnison's Prairie Dog
+106,702050200,Cynomys leucurus,Rodentia,Sciuridae,Cynomys,leucurus,,White-tailed Prairie Dog
+107,702050300,Cynomys ludovicianus,Rodentia,Sciuridae,Cynomys,ludovicianus,,Black-tailed Prairie Dog
+108,1404070000,Dama,Artiodactyla,Cervidae,Dama,,,
+109,1404070100,Dama dama,Artiodactyla,Cervidae,Dama,dama,,Fallow Deer
+110,1406040000,Damaliscus,Artiodactyla,Bovidae,Damaliscus,,,
+111,1406040100,Damaliscus lunatus,Artiodactyla,Bovidae,Damaliscus,lunatus,,Tsessbe
+112,501000000,Dasypodidae,Cingulata,Dasypodidae,,,,
+113,501010000,Dasypus,Cingulata,Dasypodidae,Dasypus,,,
+114,501010100,Dasypus novemcinctus,Cingulata,Dasypodidae,Dasypus,novemcinctus,,Nine-banded Armadillo
+115,1408000000,Delphinidae,Artiodactyla,Delphinidae,,,,
+116,1302010000,Diceros,Perissodactyla,Rhinocerotidae,Diceros,,,
+117,1302010100,Diceros bicornis,Perissodactyla,Rhinocerotidae,Diceros,bicornis,,Black Rhinoceros
+118,707020000,Dicrostonyx,Rodentia,Cricetidae,Dicrostonyx,,,
+119,707020100,Dicrostonyx groenlandicus,Rodentia,Cricetidae,Dicrostonyx,groenlandicus,,Northern Collared Lemming
+120,101000000,Didelphidae,Didelphimorphia,Didelphidae,,,,
+121,100000000,Didelphimorphia,Didelphimorphia,,,,,
+122,101010000,Didelphis,Didelphimorphia,Didelphidae,Didelphis,,,
+123,101010100,Didelphis virginiana,Didelphimorphia,Didelphidae,Didelphis,virginiana,,Virginia Opossum
+124,706000000,Dipodidae,Rodentia,Dipodidae,,,,
+125,704010000,Dipodomys,Rodentia,Heteromyidae,Dipodomys,,,
+126,704010100,Dipodomys agilis,Rodentia,Heteromyidae,Dipodomys,agilis,,Agile Kangaroo Rat
+127,704010200,Dipodomys deserti,Rodentia,Heteromyidae,Dipodomys,deserti,,Desert Kangaroo Rat
+128,704010300,Dipodomys heermanni,Rodentia,Heteromyidae,Dipodomys,heermanni,,Heermann's Kangaroo Rat
+129,704010400,Dipodomys merriami,Rodentia,Heteromyidae,Dipodomys,merriami,,Merriam's Kangaroo Rat
+130,704010500,Dipodomys microps,Rodentia,Heteromyidae,Dipodomys,microps,,Chisel-toothed Kangaroo Rat
+131,704010600,Dipodomys nitratoides,Rodentia,Heteromyidae,Dipodomys,nitratoides,,Fresno Kangaroo Rat
+132,704010700,Dipodomys ordii,Rodentia,Heteromyidae,Dipodomys,ordii,,Ord's Kangaroo Rat
+133,704010800,Dipodomys panamintinus,Rodentia,Heteromyidae,Dipodomys,panamintinus,,Panamint Kangaroo Rat
+134,704010900,Dipodomys spectabilis,Rodentia,Heteromyidae,Dipodomys,spectabilis,,Banner-tailed Kangaroo Rat
+135,200000000,Diprotodontia,Diprotodontia,,,,,
+136,1210030000,Eira,Carnivora,Mustelidae,Eira,,,
+137,1210030100,Eira barbara,Carnivora,Mustelidae,Eira,barbara,,Tayra
+138,401000000,Elephantidae,Proboscidea,Elephantidae,,,,
+139,1210010000,Enhydra,Carnivora,Mustelidae,Enhydra,,,
+140,1210010100,Enhydra lutris,Carnivora,Mustelidae,Enhydra,lutris,,Sea Otter
+141,1105030000,Eptesicus,Chiroptera,Vespertilionidae,Eptesicus,,,
+142,1105030100,Eptesicus fuscus,Chiroptera,Vespertilionidae,Eptesicus,fuscus,,Big Brown Bat
+143,1301000000,Equidae,Perissodactyla,Equidae,,,,
+144,1301010000,Equus,Perissodactyla,Equidae,Equus,,,
+145,1301010100,Equus asinus,Perissodactyla,Equidae,Equus,asinus,,Domestic Donkey
+146,1301010200,Equus quagga,Perissodactyla,Equidae,Equus,quagga,,Plains Zebra
+147,1301010300,Equus caballus,Perissodactyla,Equidae,Equus,caballus,,Domestic Horse
+148,710010000,Erethizon,Rodentia,Erethizontidae,Erethizon,,,
+149,710010100,Erethizon dorsatum,Rodentia,Erethizontidae,Erethizon,dorsatum,,North American Porcupine
+150,710000000,Erethizontidae,Rodentia,Erethizontidae,,,,
+152,1501010000,Erinaceus,Erinaceomorpha,Erinaceidae,Erinaceus,,,
+153,1207020000,Eumetopias,Carnivora,Otariidae,Eumetopias,,,
+154,1207020100,Eumetopias jubatus,Carnivora,Otariidae,Eumetopias,jubatus,,Steller Sea Lion
+155,1104020000,Eumops,Chiroptera,Molossidae,Eumops,,,
+156,1104020100,Eumops perotis,Chiroptera,Molossidae,Eumops,perotis,,Western Mastiff-Bat
+157,1201000000,Felidae,Carnivora,Felidae,,,,
+158,1201020000,Felis,Carnivora,Felidae,Felis,,,
+159,1201020100,Felis catus,Carnivora,Felidae,Felis,catus,,Domestic Cat
+160,601010000,Galago,Primates,Galagidae,Galago,,,
+161,601010100,Galago senegalensis,Primates,Galagidae,Galago,senegalensis,,Lesser Bush Baby
+162,601000000,Galagidae,Primates,Galagidae,,,,
+163,1406080000,Eudorcas,Artiodactyla,Bovidae,Eudorcas,,,
+164,1406100100,Nanger granti,Artiodactyla,Bovidae,Nanger,granti,,Grant's Gazelle
+165,1406080200,Eudorcas thomsonii,Artiodactyla,Bovidae,Eudorcas,thomsonii,,Thomson's Gazelle
+166,1202010000,Genetta,Carnivora,Viverridae,Genetta,,,
+167,1202010100,Genetta thierryi,Carnivora,Viverridae,Genetta,thierryi,,Hausa Genet
+168,1202010200,Genetta tigrina,Carnivora,Viverridae,Genetta,tigrina,,Blotched Genet
+169,705000000,Geomyidae,Rodentia,Geomyidae,,,,
+170,705010000,Geomys,Rodentia,Geomyidae,Geomys,,,
+171,705010100,Geomys bursarius,Rodentia,Geomyidae,Geomys,bursarius,,Plains Pocket Gopher
+172,708010000,Gerbillus,Rodentia,Muridae,Gerbillus,,,
+173,702030000,Glaucomys,Rodentia,Sciuridae,Glaucomys,,,
+174,702030200,Glaucomys sabrinus,Rodentia,Sciuridae,Glaucomys,sabrinus,,Northern Flying Squirrel
+175,1210040000,Gulo,Carnivora,Mustelidae,Gulo,,,
+176,1210040100,Gulo gulo,Carnivora,Mustelidae,Gulo,gulo,,Wolverine
+178,1201060200,Herpailurus yagouaroundi,Carnivora,Felidae,Herpailurus,yagouaroundi,,Jaguarundi
+179,1203020000,Galerella,Carnivora,Herpestidae,Galerella,,,
+180,1203020100,Galerella sanguinea,Carnivora,Herpestidae,Galerella,sanguinea,,Slender Mongoose
+181,301010000,Heterohyrax,Hyracoidea,Procaviidae,Heterohyrax,,,
+182,301010100,Heterohyrax brucei,Hyracoidea,Procaviidae,Heterohyrax,brucei,,Yellow-spotted Rock Hyrax
+183,704000000,Heteromyidae,Rodentia,Heteromyidae,,,,
+184,1406260000,Hippotragus,Artiodactyla,Bovidae,Hippotragus,,,
+185,1406260100,Hippotragus niger,Artiodactyla,Bovidae,Hippotragus,niger,,Sable Antelope
+186,605000000,Hominidae,Primates,Hominidae,,,,
+187,1204000000,Hyaenidae,Carnivora,Hyaenidae,,,,
+188,300000000,Hyracoidea,Hyracoidea,,,,,
+189,1203030000,Ichneumia,Carnivora,Herpestidae,Ichneumia,,,
+190,1203030100,Ichneumia albicauda,Carnivora,Herpestidae,Ichneumia,albicauda,,White-tailed Mongoose
+192,1406280000,Kobus,Artiodactyla,Bovidae,Kobus,,,
+193,1406280100,Kobus ellipsiprymnus,Artiodactyla,Bovidae,Kobus,ellipsiprymnus,,Waterbuck
+194,1406280200,Kobus leche,Artiodactyla,Bovidae,Kobus,leche,,Lechwe
+195,1406280300,Kobus vardonii,Artiodactyla,Bovidae,Kobus,vardonii,,Puku
+196,711020000,Lagidium,Rodentia,Chinchillidae,Lagidium,,,
+197,711020100,Lagidium peruanum,Rodentia,Chinchillidae,Lagidium,peruanum,,Northern Mountain Viscacha
+198,800000000,Lagomorpha,Lagomorpha,,,,,
+199,1403010000,Lama,Artiodactyla,Camelidae,Lama,,,
+200,1403010100,Lama glama,Artiodactyla,Camelidae,Lama,glama,,Llama
+201,1105040000,Lasiurus,Chiroptera,Vespertilionidae,Lasiurus,,,
+202,1105040100,Lasiurus blossevillii,Chiroptera,Vespertilionidae,Lasiurus,blossevillii,,Western Red Bat
+203,1105040200,Lasiurus cinereus,Chiroptera,Vespertilionidae,Lasiurus,cinereus,,Hoary Bat
+204,707030000,Lemmiscus,Rodentia,Cricetidae,Lemmiscus,,,
+205,707030100,Lemmiscus curtatus,Rodentia,Cricetidae,Lemmiscus,curtatus,,Sagebrush Vole
+206,707040000,Lemmus,Rodentia,Cricetidae,Lemmus,,,
+207,707040100,Lemmus trimucronatus,Rodentia,Cricetidae,Lemmus,trimucronatus,,North American Brown Lemming
+208,602010000,Leontopithecus,Primates,Callitrichidae,Leontopithecus,,,
+209,602010100,Leontopithecus rosalia,Primates,Callitrichidae,Leontopithecus,rosalia,,Golden Lion Tamarin
+210,1201030000,Leopardus,Carnivora,Felidae,Leopardus,,,
+211,1201030100,Leopardus pardalis,Carnivora,Felidae,Leopardus,pardalis,,Ocelot
+212,802000000,Leporidae,Lagomorpha,Leporidae,,,,
+213,802010000,Lepus,Lagomorpha,Leporidae,Lepus,,,
+214,802010100,Lepus alleni,Lagomorpha,Leporidae,Lepus,alleni,,Antelope Jackrabbit
+215,802010200,Lepus americanus,Lagomorpha,Leporidae,Lepus,americanus,,Snowshoe Hare
+216,802010300,Lepus californicus,Lagomorpha,Leporidae,Lepus,californicus,,Black-tailed Jackrabbit
+217,802010400,Lepus capensis,Lagomorpha,Leporidae,Lepus,capensis,,Cape Hare
+218,802010500,Lepus townsendii,Lagomorpha,Leporidae,Lepus,townsendii,,White-tailed Jackrabbit
+219,1210020000,Lontra,Carnivora,Mustelidae,Lontra,,,
+220,1210020100,Lontra canadensis,Carnivora,Mustelidae,Lontra,canadensis,,North American River Otter
+221,1210020101,Lontra canadensis pacifica,Carnivora,Mustelidae,Lontra,canadensis,pacifica,North American River Otter
+222,401010000,Loxodonta,Proboscidea,Elephantidae,Loxodonta,,,
+223,401010100,Loxodonta africana,Proboscidea,Elephantidae,Loxodonta,africana,,African Savanna Elephant
+224,1201040000,Lynx,Carnivora,Felidae,Lynx,,,
+225,1201040100,Lynx canadensis,Carnivora,Felidae,Lynx,canadensis,,Canada Lynx
+226,1201040200,Lynx rufus,Carnivora,Felidae,Lynx,rufus,,Bobcat
+227,1406090000,Madoqua,Artiodactyla,Bovidae,Madoqua,,,
+228,1406090100,Madoqua kirkii,Artiodactyla,Bovidae,Madoqua,kirkii,,Kirk's Dik-dik
+229,0,Mammalia,Mammalia,,,,,
+230,702060000,Marmota,Rodentia,Sciuridae,Marmota,,,
+231,702060100,Marmota caligata,Rodentia,Sciuridae,Marmota,caligata,,Hoary Marmot
+232,702060200,Marmota flaviventris,Rodentia,Sciuridae,Marmota,flaviventris,,Yellow-bellied Marmot
+233,702060300,Marmota monax,Rodentia,Sciuridae,Marmota,monax,,Woodchuck
+234,1210050000,Martes,Carnivora,Mustelidae,Martes,,,
+235,1210050100,Martes americana,Carnivora,Mustelidae,Martes,americana,,American Marten
+236,1210060100,Pekania pennanti,Carnivora,Mustelidae,Pekania,pennanti,,Fisher
+237,1211010000,Mephitis,Carnivora,Mephitidae,Mephitis,,,
+238,1211010100,Mephitis mephitis,Carnivora,Mephitidae,Mephitis,mephitis,,Striped Skunk
+239,707080000,Mesocricetus,Rodentia,Cricetidae,Mesocricetus,,,
+240,707080100,Mesocricetus auratus,Rodentia,Cricetidae,Mesocricetus,auratus,,Golden Hamster
+241,704020000,Microdipodops,Rodentia,Heteromyidae,Microdipodops,,,
+242,704020100,Microdipodops pallidus,Rodentia,Heteromyidae,Microdipodops,pallidus,,Pale Kangaroo Mouse
+243,707050000,Microtus,Rodentia,Cricetidae,Microtus,,,
+244,707050100,Microtus californicus,Rodentia,Cricetidae,Microtus,californicus,,California Vole
+245,707050101,Microtus californicus californicus,Rodentia,Cricetidae,Microtus,californicus,californicus,California Vole
+246,707050102,Microtus californicus constrictus,Rodentia,Cricetidae,Microtus,californicus,constrictus,California Vole
+247,707050200,Microtus longicaudus,Rodentia,Cricetidae,Microtus,longicaudus,,Long-tailed Vole
+248,707050300,Microtus montanus,Rodentia,Cricetidae,Microtus,montanus,,Montane Vole
+249,707050301,Microtus montanus montanus,Rodentia,Cricetidae,Microtus,montanus,montanus,Montane Vole
+250,707050400,Microtus oregoni,Rodentia,Cricetidae,Microtus,oregoni,,Creeping Vole
+251,707050500,Microtus pennsylvanicus,Rodentia,Cricetidae,Microtus,pennsylvanicus,,Meadow Vole
+252,707050600,Microtus townsendii,Rodentia,Cricetidae,Microtus,townsendii,,Townsend's Vole
+253,707050601,Microtus townsendii townsendii,Rodentia,Cricetidae,Microtus,townsendii,townsendii,Townsend's  Vole
+254,1104000000,Molossidae,Chiroptera,Molossidae,,,,
+255,1102000000,Mormoopidae,Chiroptera,Mormoopidae,,,,
+256,1102010000,Mormoops,Chiroptera,Mormoopidae,Mormoops,,,
+257,1102010100,Mormoops megalophylla,Chiroptera,Mormoopidae,Mormoops,megalophylla,,Peter's Ghost-faced Bat
+258,708000000,Muridae,Rodentia,Muridae,,,,
+259,708020000,Mus,Rodentia,Muridae,Mus,,,
+260,708020100,Mus musculus,Rodentia,Muridae,Mus,musculus,,House Mouse
+261,1210070000,Mustela,Carnivora,Mustelidae,Mustela,,,
+262,1210070100,Mustela erminea,Carnivora,Mustelidae,Mustela,erminea,,Ermine
+263,1210130100,Neogale frenata,Carnivora,Mustelidae,Neogale,frenata,,Long-tailed Weasel
+264,1210070300,Mustela nigripes,Carnivora,Mustelidae,Mustela,nigripes,,Black-footed Ferret
+265,1210070400,Mustela nivalis,Carnivora,Mustelidae,Mustela,nivalis,,Least Weasel
+266,1210070401,Mustela nivalis rixosa,Carnivora,Mustelidae,Mustela,nivalis,rixosa,Least Weasel
+267,1210070500,Mustela putorius,Carnivora,Mustelidae,Mustela,putorius,,European Ferret
+268,1210130200,Neogale vison,Carnivora,Mustelidae,Neogale,vison,,American Mink
+269,1210130201,Neogale vison energumenos,Carnivora,Mustelidae,Neogale,vison,energumenos,Mink
+270,1210000000,Mustelidae,Carnivora,Mustelidae,,,,
+271,713010000,Myocastor,Rodentia,Echimyidae,Myocastor,,,
+272,713010100,Myocastor coypus,Rodentia,Echimyidae,Myocastor,coypus,,Nutria
+273,713000000,Echimyidae,Rodentia,Echimyidae,,,,
+274,1105060000,Myotis,Chiroptera,Vespertilionidae,Myotis,,,
+275,1105060100,Myotis californicus,Chiroptera,Vespertilionidae,Myotis,californicus,,California Myotis
+276,1105060200,Myotis evotis,Chiroptera,Vespertilionidae,Myotis,evotis,,Long-eared Myotis
+277,1105060300,Myotis keenii,Chiroptera,Vespertilionidae,Myotis,keenii,,Keen's Myotis
+278,1105060400,Myotis lucifugus,Chiroptera,Vespertilionidae,Myotis,lucifugus,,Little Brown Myotis
+279,1105060600,Myotis volans,Chiroptera,Vespertilionidae,Myotis,volans,,Long-legged Myotis
+280,1212020000,Nasua,Carnivora,Procyonidae,Nasua,,,
+281,1212020100,Nasua narica,Carnivora,Procyonidae,Nasua,narica,,White-nosed Coati
+282,1212020200,Nasua nasua,Carnivora,Procyonidae,Nasua,nasua,,South American Coati
+283,707090000,Neotoma,Rodentia,Cricetidae,Neotoma,,,
+284,707090100,Neotoma albigula,Rodentia,Cricetidae,Neotoma,albigula,,White-throated Woodrat
+285,707090200,Neotoma cinerea,Rodentia,Cricetidae,Neotoma,cinerea,,Bushy-tailed Woodrat
+286,707090300,Neotoma fuscipes,Rodentia,Cricetidae,Neotoma,fuscipes,,Dusky-footed Woodrat
+287,707090301,Neotoma fuscipes fuscipes,Rodentia,Cricetidae,Neotoma,fuscipes,fuscipes,Dusky-footed Woodrat
+288,707090400,Neotoma lepida,Rodentia,Cricetidae,Neotoma,lepida,,Desert Woodrat
+289,1406110000,Nesotragus,Artiodactyla,Bovidae,Nesotragus,,,
+290,1406110100,Nesotragus moschatus,Artiodactyla,Bovidae,Nesotragus,moschatus,,Suni
+291,1406110101,Nesotragus moschatus livingstonianus,Artiodactyla,Bovidae,Nesotragus,moschatus,livingstonianus,Suni
+292,1003030000,Neurotrichus,Soricomorpha,Talpidae,Neurotrichus,,,
+293,1003030100,Neurotrichus gibbsii,Soricomorpha,Talpidae,Neurotrichus,gibbsii,,American Shrew Mole
+294,1103010000,Noctilio,Chiroptera,Noctilionidae,Noctilio,,,
+295,1103010100,Noctilio leporinus,Chiroptera,Noctilionidae,Noctilio,leporinus,,Greater Bulldog Bat
+296,1103000000,Noctilionidae,Chiroptera,Noctilionidae,,,,
+297,801010000,Ochotona,Lagomorpha,Ochotonidae,Ochotona,,,
+298,801010100,Ochotona princeps,Lagomorpha,Ochotonidae,Ochotona,princeps,,American Pika
+299,801000000,Ochotonidae,Lagomorpha,Ochotonidae,,,,
+300,1208000000,Odobenidae,Carnivora,Odobenidae,,,,
+301,1208010000,Odobenus,Carnivora,Odobenidae,Odobenus,,,
+302,1208010100,Odobenus rosmarus,Carnivora,Odobenidae,Odobenus,rosmarus,,Walrus
+303,1404020000,Odocoileus,Artiodactyla,Cervidae,Odocoileus,,,
+304,1404020100,Odocoileus hemionus,Artiodactyla,Cervidae,Odocoileus,hemionus,,Mule Deer
+305,1404020101,Odocoileus hemionus columbianus,Artiodactyla,Cervidae,Odocoileus,hemionus,columbianus,Mule Deer
+306,1404020200,Odocoileus virginianus,Artiodactyla,Cervidae,Odocoileus,virginianus,,White-tailed Deer
+307,1404020201,Odocoileus virginianus couesi,Artiodactyla,Cervidae,Odocoileus,virginianus,couesi,White-tailed Deer
+308,707070000,Ondatra,Rodentia,Cricetidae,Ondatra,,,
+309,707070100,Ondatra zibethicus,Rodentia,Cricetidae,Ondatra,zibethicus,,Muskrat
+310,707070101,Ondatra zibethicus mergens,Rodentia,Cricetidae,Ondatra,zibethicus,mergens,Muskrat
+311,707100000,Onychomys,Rodentia,Cricetidae,Onychomys,,,
+312,707100100,Onychomys leucogaster,Rodentia,Cricetidae,Onychomys,leucogaster,,Northern Grasshopper Mouse
+313,707100200,Onychomys torridus,Rodentia,Cricetidae,Onychomys,torridus,,Southern Grasshopper Mouse
+314,1408010000,Orcinus,Artiodactyla,Delphinidae,Orcinus,,,
+315,1408010100,Orcinus orca,Artiodactyla,Delphinidae,Orcinus,orca,,Killer Whale
+316,1406210000,Oreamnos,Artiodactyla,Bovidae,Oreamnos,,,
+317,1406210100,Oreamnos americanus,Artiodactyla,Bovidae,Oreamnos,americanus,,Mountain Goat
+318,802020000,Oryctolagus,Lagomorpha,Leporidae,Oryctolagus,,,
+319,802020100,Oryctolagus cuniculus,Lagomorpha,Leporidae,Oryctolagus,cuniculus,,European Rabbit
+320,1406270000,Oryx,Artiodactyla,Bovidae,Oryx,,,
+321,1406270100,Oryx beisa,Artiodactyla,Bovidae,Oryx,beisa,,Beisa Oryx
+322,1406270101,Oryx beisa callotis,Artiodactyla,Bovidae,Oryx,beisa,callotis,Beisa Oryx
+323,1207000000,Otariidae,Carnivora,Otariidae,,,,
+324,708040000,Otomys,Rodentia,Muridae,Otomys,,,Vlei Rat
+325,1406120000,Ourebia,Artiodactyla,Bovidae,Ourebia,,,
+326,1406120100,Ourebia ourebi,Artiodactyla,Bovidae,Ourebia,ourebi,,Oribi
+327,1406220000,Ovibos,Artiodactyla,Bovidae,Ovibos,,,
+328,1406220100,Ovibos moschatus,Artiodactyla,Bovidae,Ovibos,moschatus,,Muskox
+329,1406230000,Ovis,Artiodactyla,Bovidae,Ovis,,,
+330,1406230100,Ovis aries,Artiodactyla,Bovidae,Ovis,aries,,Domestic Sheep
+331,1406230200,Ovis canadensis,Artiodactyla,Bovidae,Ovis,canadensis,,Bighorn Sheep
+332,1406230201,Ovis canadensis nelsoni,Artiodactyla,Bovidae,Ovis,canadensis,nelsoni,Bighorn Sheep
+333,1406230300,Ovis dalli,Artiodactyla,Bovidae,Ovis,dalli,,Dall Sheep
+334,1406230101,Ovis aries orientalis,Artiodactyla,Bovidae,Ovis,aries,orientalis,Mouflon
+335,605010000,Pan,Primates,Hominidae,Pan,,,
+336,605010100,Pan troglodytes,Primates,Hominidae,Pan,troglodytes,,Chimpanzee
+337,1201070000,Panthera,Carnivora,Felidae,Panthera,,,
+338,1201070100,Panthera onca,Carnivora,Felidae,Panthera,onca,,Jaguar
+339,1201070200,Panthera pardus,Carnivora,Felidae,Panthera,pardus,,Leopard
+340,604020000,Papio,Primates,Cercopithecidae,Papio,,,
+341,604020100,Papio cynocephalus,Primates,Cercopithecidae,Papio,cynocephalus,,Yellow Baboon
+342,1402010000,Pecari,Artiodactyla,Tayassuidae,Pecari,,,
+343,1402010100,Pecari tajacu,Artiodactyla,Tayassuidae,Pecari,tajacu,,Collared Peccary
+344,1300000000,Perissodactyla,Perissodactyla,,,,,
+345,704040000,Perognathus,Rodentia,Heteromyidae,Perognathus,,,
+346,704040100,Perognathus longimembris,Rodentia,Heteromyidae,Perognathus,longimembris,,Little Pocket Mouse
+347,704040200,Perognathus parvus,Rodentia,Heteromyidae,Perognathus,parvus,,Great Basin Pocket Mouse
+348,707110000,Peromyscus,Rodentia,Cricetidae,Peromyscus,,,
+349,707110100,Peromyscus boylii,Rodentia,Cricetidae,Peromyscus,boylii,,Brush Mouse
+350,707110200,Peromyscus californicus,Rodentia,Cricetidae,Peromyscus,californicus,,California Mouse
+351,707110201,Peromyscus californicus insignis,Rodentia,Cricetidae,Peromyscus,californicus,insignis,California Mouse
+352,707110300,Peromyscus crinitus,Rodentia,Cricetidae,Peromyscus,crinitus,,Canyon Mouse
+353,707110400,Peromyscus eremicus,Rodentia,Cricetidae,Peromyscus,eremicus,,Cactus Mouse
+354,707110401,Peromyscus eremicus fraterculus,Rodentia,Cricetidae,Peromyscus,eremicus,fraterculus,Cactus Mouse
+355,707110500,Peromyscus leucopus,Rodentia,Cricetidae,Peromyscus,leucopus,,White-footed Mouse
+356,707110600,Peromyscus maniculatus,Rodentia,Cricetidae,Peromyscus,maniculatus,,Deer Mouse
+357,707110601,Peromyscus maniculatus gambelii,Rodentia,Cricetidae,Peromyscus,maniculatus,gambelii,Deer Mouse
+358,707110602,Peromyscus maniculatus rubidus,Rodentia,Cricetidae,Peromyscus,maniculatus,rubidus,Deer Mouse
+359,707110603,Peromyscus maniculatus santacruzae,Rodentia,Cricetidae,Peromyscus,maniculatus,santacruzae,Deer Mouse
+360,707110700,Peromyscus truei,Rodentia,Cricetidae,Peromyscus,truei,,Pinyon Mouse
+361,707110701,Peromyscus truei gilberti,Rodentia,Cricetidae,Peromyscus,truei,gilberti,Pinyon Mouse
+362,1401020000,Phacochoerus,Artiodactyla,Suidae,Phacochoerus,,,
+363,1401020100,Phacochoerus africanus,Artiodactyla,Suidae,Phacochoerus,africanus,,Common Warthog
+364,201000000,Phalangeridae,Diprotodontia,Phalangeridae,,,,
+365,1209010000,Phoca,Carnivora,Phocidae,Phoca,,,
+366,1209010100,Phoca vitulina,Carnivora,Phocidae,Phoca,vitulina,,Harbor Seal
+367,1209000000,Phocidae,Carnivora,Phocidae,,,,
+368,1105070000,Parastrellus,Chiroptera,Vespertilionidae,Parastrellus,,,
+369,1105070100,Parastrellus hesperus,Chiroptera,Vespertilionidae,Parastrellus,hesperus,,Western Pipistrelle
+370,1105020000,Corynorhinus,Chiroptera,Vespertilionidae,Corynorhinus,,,
+371,1105020100,Corynorhinus townsendii,Chiroptera,Vespertilionidae,Corynorhinus,townsendii,,Townsend's Big-eared Bat
+372,600000000,Primates,Primates,,,,,
+373,400000000,Proboscidea,Proboscidea,,,,,
+374,301000000,Procaviidae,Hyracoidea,Procaviidae,,,,
+375,1212030000,Procyon,Carnivora,Procyonidae,Procyon,,,
+376,1212030100,Procyon lotor,Carnivora,Procyonidae,Procyon,lotor,,Raccoon
+377,1212000000,Procyonidae,Carnivora,Procyonidae,,,,
+378,1204020000,Proteles,Carnivora,Hyaenidae,Proteles,,,
+379,1204020100,Proteles cristata,Carnivora,Hyaenidae,Proteles,cristata,,Aardwolf
+380,1101000000,Pteropodidae,Chiroptera,Pteropodidae,,,,
+381,1101010000,Pteropus,Chiroptera,Pteropodidae,Pteropus,,,
+382,1101010100,Pteropus yapensis,Chiroptera,Pteropodidae,Pteropus,yapensis,,Flying Fox
+383,1201050000,Puma,Carnivora,Felidae,Puma,,,
+384,1201050100,Puma concolor,Carnivora,Felidae,Puma,concolor,,Mountain Lion
+385,1404030000,Rangifer,Artiodactyla,Cervidae,Rangifer,,,
+386,1404030100,Rangifer tarandus,Artiodactyla,Cervidae,Rangifer,tarandus,,Caribou
+387,1406130000,Raphicerus,Artiodactyla,Bovidae,Raphicerus,,,
+388,1406130100,Raphicerus campestris,Artiodactyla,Bovidae,Raphicerus,campestris,,Steenbok
+389,708030000,Rattus,Rodentia,Muridae,Rattus,,,
+390,708030100,Rattus norvegicus,Rodentia,Muridae,Rattus,norvegicus,,Brown Rat
+391,708030200,Rattus rattus,Rodentia,Muridae,Rattus,rattus,,Black Rat
+392,1406290000,Redunca,Artiodactyla,Bovidae,Redunca,,,
+393,1406290100,Redunca arundinum,Artiodactyla,Bovidae,Redunca,arundinum,,Common Reedbuck
+394,1406290200,Redunca redunca,Artiodactyla,Bovidae,Redunca,redunca,,Bohor Reedbuck
+395,707120000,Reithrodontomys,Rodentia,Cricetidae,Reithrodontomys,,,
+396,707120100,Reithrodontomys megalotis,Rodentia,Cricetidae,Reithrodontomys,megalotis,,Western Harvest Mouse
+397,1302000000,Rhinocerotidae,Perissodactyla,Rhinocerotidae,,,,
+398,700000000,Rodentia,Rodentia,,,,,
+399,602020000,Saguinus,Primates,Callitrichidae,Saguinus,,,
+400,602020100,Saguinus nigricollis,Primates,Callitrichidae,Saguinus,nigricollis,,Black-mantled Tamarin
+401,603010000,Saimiri,Primates,Cebidae,Saimiri,,,
+402,603010100,Saimiri sciureus,Primates,Cebidae,Saimiri,sciureus,,Common Squirrel Monkey
+403,1003010000,Scalopus,Soricomorpha,Talpidae,Scalopus,,,
+404,1003010100,Scalopus aquaticus,Soricomorpha,Talpidae,Scalopus,aquaticus,,Eastern Mole
+405,1003020000,Scapanus,Soricomorpha,Talpidae,Scapanus,,,
+406,1003020100,Scapanus latimanus,Soricomorpha,Talpidae,Scapanus,latimanus,,Broad-footed Mole
+407,1003020200,Scapanus orarius,Soricomorpha,Talpidae,Scapanus,orarius,,Coast Mole
+408,1003020300,Scapanus townsendii,Soricomorpha,Talpidae,Scapanus,townsendii,,Townsend's Mole
+409,702000000,Sciuridae,Rodentia,Sciuridae,,,,
+410,702010000,Sciurus,Rodentia,Sciuridae,Sciurus,,,
+411,702010100,Sciurus aberti,Rodentia,Sciuridae,Sciurus,aberti,,Abert's Squirrel
+412,702010101,Sciurus aberti kaibabensis,Rodentia,Sciuridae,Sciurus,aberti,kaibabensis,Abert's Squirrel
+413,702010200,Sciurus carolinensis,Rodentia,Sciuridae,Sciurus,carolinensis,,Eastern Gray Squirrel
+414,702010300,Sciurus griseus,Rodentia,Sciuridae,Sciurus,griseus,,Western Gray Squirrel
+415,702010400,Sciurus niger,Rodentia,Sciuridae,Sciurus,niger,,Fox Squirrel
+416,1002030000,Sorex,Soricomorpha,Soricidae,Sorex,,,
+417,1002030100,Sorex bendirii,Soricomorpha,Soricidae,Sorex,bendirii,,Marsh Shrew
+418,1002030200,Sorex cinereus,Soricomorpha,Soricidae,Sorex,cinereus,,Masked Shrew
+419,1002030300,Sorex hoyi,Soricomorpha,Soricidae,Sorex,hoyi,,Pygmy Shrew
+420,1002030400,Sorex pacificus,Soricomorpha,Soricidae,Sorex,pacificus,,Pacific Shrew
+421,1002030401,Sorex pacificus pacificus,Soricomorpha,Soricidae,Sorex,pacificus,pacificus,Pacific Shrew
+422,1002030500,Sorex palustris,Soricomorpha,Soricidae,Sorex,palustris,,American Water Shrew
+423,1002030600,Sorex trowbridgii,Soricomorpha,Soricidae,Sorex,trowbridgii,,Trowbridge's Shrew
+424,1002030700,Sorex vagrans,Soricomorpha,Soricidae,Sorex,vagrans,,Vagrant Shrew
+425,1002030701,Sorex vagrans obscurus,Soricomorpha,Soricidae,Sorex,vagrans,obscurus,Vagrant Shrew
+426,1002030702,Sorex vagrans vagrans,Soricomorpha,Soricidae,Sorex,vagrans,vagrans,Vagrant Shrew
+427,1002000000,Soricidae,Soricomorpha,Soricidae,,,,
+428,702080000,Urocitellus,Rodentia,Sciuridae,Urocitellus,,,
+429,702080100,Urocitellus armatus,Rodentia,Sciuridae,Urocitellus,armatus,,Uinta Ground Squirrel
+430,702070100,Otospermophilus beecheyi,Rodentia,Sciuridae,Otospermophilus,beecheyi,,California Ground Squirrel
+431,702070101,Otospermophilus beecheyi beecheyi,Rodentia,Sciuridae,Otospermophilus,beecheyi,beecheyi,California Ground Squirrel
+432,702080300,Urocitellus beldingi,Rodentia,Sciuridae,Urocitellus,beldingi,,Belding's Ground Squirrel
+433,702080400,Urocitellus columbianus,Rodentia,Sciuridae,Urocitellus,columbianus,,Columbian Ground Squirrel
+434,702090100,Callospermophilus lateralis,Rodentia,Sciuridae,Callospermophilus,lateralis,,Golden-mantled Ground Squirrel
+435,702080600,Urocitellus parryii,Rodentia,Sciuridae,Urocitellus,parryii,,Arctic Ground Squirrel
+436,702080700,Urocitellus richardsonii,Rodentia,Sciuridae,Urocitellus,richardsonii,,Richardson's Ground Squirrel
+437,702100100,Ictidomys tridecemlineatus,Rodentia,Sciuridae,Ictidomys,tridecemlineatus,,Thirteen-lined Ground Squirrel
+438,702070200,Otospermophilus variegatus,Rodentia,Sciuridae,Otospermophilus,variegatus,,Rock Squirrel
+439,1211020000,Spilogale,Carnivora,Mephitidae,Spilogale,,,
+440,1211020100,Spilogale gracilis,Carnivora,Mephitidae,Spilogale,gracilis,,Western Spotted Skunk
+441,1401000000,Suidae,Artiodactyla,Suidae,,,,
+442,1002010000,Suncus,Soricomorpha,Soricidae,Suncus,,,
+443,1002010100,Suncus murinus,Soricomorpha,Soricidae,Suncus,murinus,,Asian House Shrew
+444,1401010000,Sus,Artiodactyla,Suidae,Sus,,,
+445,1401010100,Sus scrofa,Artiodactyla,Suidae,Sus,scrofa,,Pig
+446,1406250000,Sylvicapra,Artiodactyla,Bovidae,Sylvicapra,,,
+447,1406250100,Sylvicapra grimmia,Artiodactyla,Bovidae,Sylvicapra,grimmia,,Gray Duiker
+448,802030000,Sylvilagus,Lagomorpha,Leporidae,Sylvilagus,,,
+449,802030100,Sylvilagus audubonii,Lagomorpha,Leporidae,Sylvilagus,audubonii,,Desert Cottontail
+450,802030200,Sylvilagus bachmani,Lagomorpha,Leporidae,Sylvilagus,bachmani,,Brush Rabbit
+451,802030300,Sylvilagus cunicularius,Lagomorpha,Leporidae,Sylvilagus,cunicularius,,Mexican Cottontail
+452,802030400,Sylvilagus floridanus,Lagomorpha,Leporidae,Sylvilagus,floridanus,,Eastern Cottontail
+453,802030500,Sylvilagus nuttallii,Lagomorpha,Leporidae,Sylvilagus,nuttallii,,Mountain Cottontail
+454,1406160000,Syncerus,Artiodactyla,Bovidae,Syncerus,,,
+455,1406160100,Syncerus caffer,Artiodactyla,Bovidae,Syncerus,caffer,,African Buffalo
+456,1104030000,Tadarida,Chiroptera,Molossidae,Tadarida,,,
+457,1104030100,Tadarida brasiliensis,Chiroptera,Molossidae,Tadarida,brasiliensis,,Brazilian Free-tailed Bat
+458,1104030101,Tadarida brasiliensis mexicana,Chiroptera,Molossidae,Tadarida,brasiliensis,mexicana,Brazilian Free-tailed Bat
+459,1003000000,Talpidae,Soricomorpha,Talpidae,,,,
+460,702120000,Tamias,Rodentia,Sciuridae,Tamias,,,
+461,702110100,Neotamias amoenus,Rodentia,Sciuridae,Neotamias,amoenus,,Yellow-pine Chipmunk
+462,702110101,Neotamias amoenus monoensis,Rodentia,Sciuridae,Neotamias,amoenus,monoensis,Yellow-pine Chipmunk
+463,702110200,Neotamias dorsalis,Rodentia,Sciuridae,Neotamias,dorsalis,,Cliff Chipmunk
+464,702110300,Neotamias merriami,Rodentia,Sciuridae,Neotamias,merriami,,Merriam's Chipmunk
+465,702110400,Neotamias minimus,Rodentia,Sciuridae,Neotamias,minimus,,Least Chipmunk
+466,702110500,Neotamias ochrogenys,Rodentia,Sciuridae,Neotamias,ochrogenys,,Yellow-cheeked Chipmunk
+467,702110600,Neotamias palmeri,Rodentia,Sciuridae,Neotamias,palmeri,,Palmer's Chipmunk
+468,702110700,Neotamias quadrivittatus,Rodentia,Sciuridae,Neotamias,quadrivittatus,,Colorado Chipmunk
+469,702110800,Neotamias senex,Rodentia,Sciuridae,Neotamias,senex,,Shadow Chipmunk
+470,702110900,Neotamias siskiyou,Rodentia,Sciuridae,Neotamias,siskiyou,,Siskiyou Chipmunk
+471,702111000,Neotamias sonomae,Rodentia,Sciuridae,Neotamias,sonomae,,Sonoma Chipmunk
+472,702111100,Neotamias speciosus,Rodentia,Sciuridae,Neotamias,speciosus,,Lodgepole Chipmunk
+473,702121200,Tamias striatus,Rodentia,Sciuridae,Tamias,striatus,,Eastern Chipmunk
+474,702020000,Tamiasciurus,Rodentia,Sciuridae,Tamiasciurus,,,
+475,702020100,Tamiasciurus douglasii,Rodentia,Sciuridae,Tamiasciurus,douglasii,,Douglas Squirrel
+476,702020200,Tamiasciurus hudsonicus,Rodentia,Sciuridae,Tamiasciurus,hudsonicus,,American Red Squirrel
+477,1406170000,Taurotragus,Artiodactyla,Bovidae,Taurotragus,,,
+478,1406170100,Taurotragus oryx,Artiodactyla,Bovidae,Taurotragus,oryx,,Common Eland
+479,1210090000,Taxidea,Carnivora,Mustelidae,Taxidea,,,
+480,1210090100,Taxidea taxus,Carnivora,Mustelidae,Taxidea,taxus,,American Badger
+481,1402000000,Tayassuidae,Artiodactyla,Tayassuidae,,,,
+482,705020000,Thomomys,Rodentia,Geomyidae,Thomomys,,,
+483,705020100,Thomomys bottae,Rodentia,Geomyidae,Thomomys,bottae,,Botta's Pocket Gopher
+484,705020101,Thomomys bottae laticeps,Rodentia,Geomyidae,Thomomys,bottae,laticeps,Botta's Pocket Gopher
+485,705020200,Thomomys talpoides,Rodentia,Geomyidae,Thomomys,talpoides,,Northern Pocket Gopher
+486,709000000,Thryonomyidae,Rodentia,Thryonomyidae,,,,
+487,709010000,Thryonomys,Rodentia,Thryonomyidae,Thryonomys,,,Cane Rat
+488,1406180000,Tragelaphus,Artiodactyla,Bovidae,Tragelaphus,,,
+489,1406180100,Tragelaphus angasii,Artiodactyla,Bovidae,Tragelaphus,angasii,,Nyala
+490,1406180200,Tragelaphus imberbis,Artiodactyla,Bovidae,Tragelaphus,imberbis,,Lesser Kudu
+491,1406180300,Tragelaphus scriptus,Artiodactyla,Bovidae,Tragelaphus,scriptus,,Bushbuck
+492,1406180301,Tragelaphus scriptus ornatus,Artiodactyla,Bovidae,Tragelaphus,scriptus,ornatus,Bushbuck
+493,1406180400,Tragelaphus strepsiceros,Artiodactyla,Bovidae,Tragelaphus,strepsiceros,,Greater Kudu
+494,201010000,Trichosurus,Diprotodontia,Phalangeridae,Trichosurus,,,
+495,201010100,Trichosurus vulpecula,Diprotodontia,Phalangeridae,Trichosurus,vulpecula,,Common Brushtail Possum
+496,1205020000,Urocyon,Carnivora,Canidae,Urocyon,,,
+497,1205020100,Urocyon cinereoargenteus,Carnivora,Canidae,Urocyon,cinereoargenteus,,Gray Fox
+498,1205020200,Urocyon littoralis,Carnivora,Canidae,Urocyon,littoralis,,Island Fox
+499,1206000000,Ursidae,Carnivora,Ursidae,,,,
+500,1206010000,Ursus,Carnivora,Ursidae,Ursus,,,
+501,1206010100,Ursus americanus,Carnivora,Ursidae,Ursus,americanus,,American Black Bear
+502,1206010101,Ursus americanus perniger,Carnivora,Ursidae,Ursus,americanus,perniger,American Black Bear
+503,1206010200,Ursus arctos,Carnivora,Ursidae,Ursus,arctos,,Brown Bear
+504,1206010300,Ursus maritimus,Carnivora,Ursidae,Ursus,maritimus,,Polar Bear
+505,1206010400,Ursus thibetanus,Carnivora,Ursidae,Ursus,thibetanus,,Asiatic Black Bear
+506,1105000000,Vespertilionidae,Chiroptera,Vespertilionidae,,,,
+507,1202000000,Viverridae,Carnivora,Viverridae,,,,
+508,1205030000,Vulpes,Carnivora,Canidae,Vulpes,,,
+509,1205030200,Vulpes macrotis,Carnivora,Canidae,Vulpes,macrotis,,Kit Fox
+510,1205030202,Vulpes macrotis mutica,Carnivora,Canidae,Vulpes,macrotis,mutica,San Joaquin Kit Fox
+511,1205030203,Vulpes macrotis nevadensis,Carnivora,Canidae,Vulpes,macrotis,nevadensis,Nevada Kit Fox
+512,1205030201,Vulpes macrotis arsipus,Carnivora,Canidae,Vulpes,macrotis,arsipus,Desert Kit Fox
+513,1205030300,Vulpes velox,Carnivora,Canidae,Vulpes,velox,,Swift Fox
+514,1205030400,Vulpes vulpes,Carnivora,Canidae,Vulpes,vulpes,,Red Fox
+515,500000000,Cingulata,Cingulata,,,,,
+516,1207030000,Zalophus,Carnivora,Otariidae,Zalophus,,,
+517,1207030100,Zalophus californianus,Carnivora,Otariidae,Zalophus,californianus,,California Sea Lion
+518,706010000,Zapus,Rodentia,Dipodidae,Zapus,,,
+519,706010100,Zapus hudsonius,Rodentia,Dipodidae,Zapus,hudsonius,,Meadow Jumping Mouse
+520,706010200,Zapus princeps,Rodentia,Dipodidae,Zapus,princeps,,Western Jumping Mouse
+521,706010300,Zapus trinotatus,Rodentia,Dipodidae,Zapus,trinotatus,,Pacific Jumping Mouse
+522,1409000000,Ziphiidae,Artiodactyla,Ziphiidae,,,,
+523,1409010000,Ziphius,Artiodactyla,Ziphiidae,Ziphius,,,
+524,1409010100,Ziphius cavirostris,Artiodactyla,Ziphiidae,Ziphius,cavirostris,,Cuvier's Beaked Whale
+525,203000000,Macropodidae,Diprotodontia,Macropodidae,,,,
+526,203010000,Macropus,Diprotodontia,Macropodidae,Macropus,,,
+527,203010100,Macropus eugenii,Diprotodontia,Macropodidae,Macropus,eugenii,,Tammar Wallaby
+528,1203000000,Herpestidae,Carnivora,Herpestidae,,,,
+530,1210080000,Neovison,Carnivora,Mustelidae,Neovison,,,
+531,1211000000,Mephitidae,Carnivora,Mephitidae,,,,
+532,1406100000,Nanger,Artiodactyla,Bovidae,Nanger,,,
+533,1406140000,Bison,Artiodactyla,Bovidae,Bison,,,
+534,707000000,Cricetidae,Rodentia,Cricetidae,,,,
+535,1000000000,Soricomorpha,Soricomorpha,,,,,
+536,701010102,Aplodontia rufa rufa,Rodentia,Aplodontiidae,Aplodontia,rufa,rufa,Mountain Beaver
+537,701010103,Aplodontia rufa humboldtiana,Rodentia,Aplodontiidae,Aplodontia,rufa,humboldtiana,Mountain Beaver
+541,1105050000,Lasionycteris,Chiroptera,Vespertilionidae,Lasionycteris,,,
+542,1105050100,Lasionycteris noctivagans,Chiroptera,Vespertilionidae,Lasionycteris,noctivagans,,Silver-haired Bat
+543,1105060500,Myotis thysanodes,Chiroptera,Vespertilionidae,Myotis,thysanodes,,Fringed Myotis
+544,602000000,Callitrichidae,Primates,Callitrichidae,,,,
+545,707010100,Arborimus longicaudus,Rodentia,Cricetidae,Arborimus,longicaudus,,Red Tree Vole
+546,1210060000,Pekania,Carnivora,Mustelidae,Pekania,,,
+550,1210050200,Martes melampus,Carnivora,Mustelidae,Martes,melampus,,Japanese Marten
+551,702070000,Otospermophilus,Rodentia,Sciuridae,Otospermophilus,,,
+552,702090000,Callospermophilus,Rodentia,Sciuridae,Callospermophilus,,,
+553,702100000,Ictidomys,Rodentia,Sciuridae,Ictidomys,,,
+554,1105060700,Myotis yumanensis,Chiroptera,Vespertilionidae,Myotis,yumanensis,,Yuma Myotis
+555,1210050101,Martes americana humboldtensis,Carnivora,Mustelidae,Martes,americana,humboldtensis,Humboldt Marten
+556,202000000,Pseudocheiridae,Diprotodontia,Pseudocheiridae,,,,
+557,202001000,Pseudocheirus,Diprotodontia,Pseudocheiridae,Pseudocheirus,,,
+558,202001010,Pseudocheirus peregrinus,Diprotodontia,Pseudocheiridae,Pseudocheirus,peregrinus,,Common Ringtail Possum
+560,702030100,Glaucomys oregonensis,Rodentia,Sciuridae,Glaucomys,oregonensis,,Humboldt's Flying Squirrel
+561,1404060000,Rusa,Artiodactyla,Cervidae,Rusa,,,
+562,1201060000,Herpailurus,Carnivora,Felidae,Herpailurus,,,
+563,702110000,Neotamias,Rodentia,Sciuridae,Neotamias,,,
+564,1002030800,Sorex sonomae,Soricomorpha,Soricidae,Sorex,sonomae,,Fog Shrew
+565,702111200,Neotamias townsendii,Rodentia,Sciuridae,Neotamias, townsendii,,Townsend's Chipmunk
+566,702111300,Neotamias umbrinus,Rodentia,Sciuridae,Neotamias,umbrinus,,Uinta chipmunk
+567,702111400,Neotamias panamintinus,Rodentia,Sciuridae,Neotamias,panamintinus,,Panamint chipmunk
+568,702111500,Neotamias quadrimaculatus,Rodentia,Sciuridae,Neotamias,quadrimaculatus,,Long-eared chipmunk
+569,702111600,Neotamias canipes,Rodentia,Sciuridae,Neotamias,canipes,,Gray-footed chipmunk
+570,702111700,Neotamias ruficaudus,Rodentia,Sciuridae,Neotamias,ruficaudus,,Red-tailed chipmunk
+571,702111800,Neotamias cinereicollis,Rodentia,Sciuridae,Neotamias,cinereicollis,,Gray-collared chipmunk
+572,702111900,Neotamias obscurus,Rodentia,Sciuridae,Neotamias,obscurus,,California chipmunk
+573,1105040300,Lasiurus borealis,Chiroptera,Vespertilionidae,Lasiurus,borealis,,Eastern Red Bat
+574,1002030900,Sorex ornatus,Soricomorpha,Soricidae,Sorex,ornatus,,Ornate Shrew
+575,1500000000,Erinaceomorpha,Erinaceomorpha,,,,,
+580,1501000000,Erinaceidae,Erinaceomorpha,Erinaceidae,,,,
+582,704011000,Dipodomys californicus,Rodentia,Heteromyidae,Dipodomys,californicus,,California Kangaroo Rat
+584,704030300,Chaetodipus formosus,Rodentia,Heteromyidae,Chaetodipus,formosus,,Long-tailed pocket mouse
+585,704020200,Microdipodops megacephalus,Rodentia,Heteromyidae,Microdipodops,megacephalus,,Dark Kangaroo Mouse
+586,101010200,Didelphis marsupialis,Didelphimorphia,Didelphidae,Didelphis,marsupialis,,Black-eared opossum
+587,1002040000,Cryptotis,Soricomorpha,Soricidae,Cryptotis,,,
+588,1002040100,Cryptotis parva,Soricomorpha,Soricidae,Cryptotis,parva,,North American least shrew
+589,704030400,Chaetodipus hispidus,Rodentia,Heteromyidae,Chaetodipus,hispidus,,Hispid pocket mouse
+590,707130000,Sigmodon,Rodentia,Cricetidae,Sigmodon,,,
+591,707130100,Sigmodon hispidus,Rodentia,Cricetidae,Sigmodon,hispidus,,Hispid cotton rat
+592,707090500,Neotoma micropus,Rodentia,Cricetidae,Neotoma,micropus,,Southern Plains Woodrat
+593,707050700,Microtus ochrogaster,Rodentia,Cricetidae,Microtus,ochrogaster,,Prairie Vole
+594,1101040000,Epomophorus,Chiroptera,Pteropodidae,Epomophorus,,,
+595,714000000,"	Nesomyidae",Rodentia,"	Nesomyidae",,,,
+597,714020000,Dendromus,Rodentia,"	Nesomyidae",Dendromus,,,
+598,714020100,Dendromus melanotis,Rodentia,"	Nesomyidae",Dendromus, melanotis,,Gray climbing mouse
+600,1104010200,Chaerephon ansorgei,Chiroptera,Molossidae,Chaerephon,ansorgei,,Ansorge's free-tailed bat
+601,1106000000,Nycteridae,Chiroptera,Nycteridae,,,,
+602,1106010000,Nycteris,Chiroptera,Nycteridae,Nycteris,,,
+603,1002050000,Crocidura,Soricomorpha,Soricidae,Crocidura,,,
+604,715000000,"	Spalacidae",Rodentia,"	Spalacidae",,,,
+605,715010000,Tachyoryctes,Rodentia,"	Spalacidae",Tachyoryctes,,,
+606,715010100,Tachyoryctes splendens,Rodentia,Spalacidae,Tachyoryctes, splendens,,Northeast African mole-rat
+607,708050000,"	Arvicanthis",Rodentia,Muridae,"	Arvicanthis",,,
+608,708050100,Arvicanthis niloticus,Rodentia,Muridae,"	Arvicanthis",niloticus,,African grass rat
+609,1501010100,Erinaceus pruneri,Erinaceomorpha,Erinaceidae,Erinaceus,pruneri,,
+610,1201100100,Leptailurus serval,Carnivora,Felidae,Leptailurus,serval,,Serval cat
+611,1202010300,Genetta genetta,Carnivora,Viverridae,Genetta,genetta,,Common genet
+612,1202020000,Civettictis,Carnivora,Viverridae,Civettictis,,,
+613,1202020100,Civettictis civetta,Carnivora,Viverridae,Civettictis,civetta,,African civet
+614,1600000000,Tubulidentata,Tubulidentata,,,,,
+615,1601000000,Orycteropodidae,Tubulidentata,Orycteropodidae,,,,
+616,1601010000,Orycteropus,Tubulidentata,Orycteropodidae,Orycteropus,,,
+617,1601010100,Orycteropus afer,Tubulidentata,Orycteropodidae,Orycteropus,afer,,Aardvark
+618,606000000,"	Lorisidae",Primates,"	Lorisidae",,,,
+619,606010000,Loris,Primates,"	Lorisidae",Loris,,,
+620,606010100,Loris tardigradus,Primates,"	Lorisidae",Loris,tardigradus,,Red slender loris
+621,708060000,"	Lophuromys",Rodentia,Muridae,"	Lophuromys",,,
+622,708060100,Lophuromys sikapusi,Rodentia,Muridae,"	Lophuromys", sikapusi,,Rusty-bellied brush-furred rat
+623,301020000,Procavia,Hyracoidea,Procaviidae,Procavia,,,
+624,301030000,Dendrohyrax,Hyracoidea,Procaviidae,Dendrohyrax,,,
+625,301030100,Dendrohyrax arboreus,Hyracoidea,Procaviidae,Dendrohyrax,arboreus,,Southern tree hyrax
+626,301020100,Procavia capensis,Hyracoidea,Procaviidae,Procavia,capensis,,Rock hyrax
+627,1700000000,Pilosa,Pilosa,,,,,
+628,1701000000,"	Myrmecophagidae",Pilosa,"	Myrmecophagidae",,,,
+629,1701010000,"	Tamandua",Pilosa,"	Myrmecophagidae","	Tamandua",,,
+630,1701010100,Tamandua tetradactyla,Pilosa,"	Myrmecophagidae","	Tamandua",tetradactyla,,Southern tamandua
+631,101020000,Marmosa,Didelphimorphia,Didelphidae,Marmosa,,,
+632,101020100,Marmosa robinsoni,Didelphimorphia,Didelphidae,Marmosa,robinsoni,,Robinson's mouse opossum
+633,101030000,"	Caluromys",Didelphimorphia,Didelphidae,"	Caluromys",,,
+634,101030100,Caluromys derbianus,Didelphimorphia,Didelphidae,"	Caluromys",derbianus,,Central American woolly opossum
+635,702130000,"	Xerospermophilus",Rodentia,Sciuridae,"	Xerospermophilus",,,
+636,702130100,Xerospermophilus tereticaudus,Rodentia,Sciuridae,"	Xerospermophilus",tereticaudus,,Round-tailed ground squirrel
+637,702030300,Glaucomys volans,Rodentia,Sciuridae,Glaucomys,volans,,Southern Flying Squirrel
+638,203010200,Macropus giganteus,Diprotodontia,Macropodidae,Macropus,giganteus,,Eastern Grey Kangaroo
+639,203060100,Osphranter rufus,Diprotodontia,Macropodidae,Osphranter,rufus,,Red Kangaroo
+640,1002031000,Sorex preblei,Soricomorpha,Soricidae,Sorex,preblei,,Preble's Shrew
+641,203020000,Setonix,Diprotodontia,Macropodidae,Setonix,,,
+642,203020100,Setonix brachyurus,Diprotodontia,Macropodidae,Setonix,brachyurus,,Quokka
+643,203030000,Thylogale,Diprotodontia,Macropodidae,Thylogale,,,
+644,1702000000,"	Bradypodidae",Pilosa,"	Bradypodidae",,,,
+645,1702010000,Bradypus,Pilosa,"	Bradypodidae",Bradypus,,,
+646,1702010100,Bradypus variegatus,Pilosa,"	Bradypodidae",Bradypus,variegatus,,Brown-throated three-toed sloth
+647,706020000,Napaeozapus,Rodentia,Dipodidae,Napaeozapus,,,
+648,706020100,Napaeozapus insignis,Rodentia,Dipodidae,Napaeozapus,insignis,,Woodland jumping mouse
+649,101040000,Philander,Didelphimorphia,Didelphidae,Philander,,,
+650,101040100,Philander opossum,Didelphimorphia,Didelphidae,Philander,opossum,,Gray four-eyed opossum
+651,709010100,Thryonomys swinderianus,Rodentia,Thryonomyidae,Thryonomys,swinderianus,,Greater cane rat
+652,707110800,Peromyscus merriami,Rodentia,Cricetidae,Peromyscus,merriami,,Mesquite Mouse
+653,707110900,Peromyscus interparietalis,Rodentia,Cricetidae,Peromyscus,interparietalis,,San Lorenzo mouse
+654,707110402,Peromyscus eremicus tiburonensis,Rodentia,Cricetidae,Peromyscus,eremicus,tiburonensis,Cactus Mouse
+655,707111000,Peromyscus stephani,Rodentia,Cricetidae,Peromyscus,stephani,,San Esteban Island mouse
+656,1406290300,Redunca fulvorufula,Artiodactyla,Bovidae,Redunca,fulvorufula,,Mountain reedbuck
+657,1105060800,Myotis vivesi,Chiroptera,Vespertilionidae,Myotis,vivesi,,Fish-eating myotis
+658,1209020000,Mirounga,Carnivora,Phocidae,Mirounga,,,
+659,1209020100,Mirounga angustirostris,Carnivora,Phocidae,Mirounga,angustirostris,,Northern elephant seal
+660,1209030000,Halichoerus,Carnivora,Phocidae,Halichoerus,,,
+661,1209030100,Halichoerus grypus,Carnivora,Phocidae,Halichoerus,grypus,,Grey seal
+664,1201080000,Prionailurus,Carnivora,Felidae,Prionailurus,,,
+665,1201080100,Prionailurus viverrinus,Carnivora,Felidae,Prionailurus,viverrinus,,Fishing cat
+666,604030000,Erythrocebus,Primates,Cercopithecidae,Erythrocebus,,,
+667,604030100,Erythrocebus patas,Primates,Cercopithecidae,Erythrocebus,patas,,Patas monkey
+668,203040000,Petrogale,Diprotodontia,Macropodidae,Petrogale,,,
+669,203040100,Petrogale penicillata,Diprotodontia,Macropodidae,Petrogale,penicillata,,Brush-tailed rock-wallaby
+670,607000000,"	Lemuridae",Primates,"	Lemuridae",,,,
+671,607010000,Lemur,Primates,"	Lemuridae",Lemur,,,
+672,607010100,Lemur catta,Primates,"	Lemuridae",Lemur,catta,,Ring-tailed lemur
+674,707111100,Peromyscus sejugis,Rodentia,Cricetidae,Peromyscus,sejugis,,Santa Cruz Mouse
+675,1201090000,Catopuma,Carnivora,Felidae,Catopuma,,,
+676,1201090100,Catopuma temminckii,Carnivora,Felidae,Catopuma,temminckii,,Asian golden cat
+677,716000000,"	Cuniculidae",Rodentia,"	Cuniculidae",,,,
+678,716010000,"	Cuniculus",Rodentia,"	Cuniculidae","	Cuniculus",,,
+679,716010100,Cuniculus paca,Rodentia,"	Cuniculidae","	Cuniculus",paca,,Lowland paca
+680,1101010200,Pteropus poliocephalus,Chiroptera,Pteropodidae,Pteropus,poliocephalus,,Grey-headed flying fox
+681,1303000000,Tapiridae,Perissodactyla,Tapiridae,,,,
+682,1303010000,Tapirus,Perissodactyla,Tapiridae,Tapirus,,,
+683,1303010100,Tapirus bairdii,Perissodactyla,Tapiridae,Tapirus,bairdii,,Baird's tapir
+684,1410000000,"	Giraffidae",Artiodactyla,"	Giraffidae",,,,
+685,1410010000,Giraffa,Artiodactyla,"	Giraffidae",Giraffa,,,
+686,1410010100,Giraffa camelopardalis,Artiodactyla,"	Giraffidae",Giraffa,camelopardalis,,Northern giraffe
+687,707111200,Peromyscus dickeyi,Rodentia,Cricetidae,Peromyscus,dickeyi,,Dickey's Deer Mouse
+688,1411000000,Phocoenidae,Artiodactyla,Phocoenidae,,,,
+689,1411010000,"	Phocoena",Artiodactyla,Phocoenidae,"	Phocoena",,,
+690,1411010100,Phocoena phocoena,Artiodactyla,Phocoenidae,"	Phocoena",phocoena,,Harbour porpoise
+691,717000000,Hystricidae,Rodentia,Hystricidae,,,,
+692,717010000,Hystrix,Rodentia,Hystricidae,Hystrix,,,
+693,717010100,Hystrix africaeaustralis,Rodentia,Hystricidae,Hystrix,africaeaustralis,,Cape porcupine
+694,604040000,Colobus,Primates,Cercopithecidae,Colobus,,,
+695,604040100,Colobus polykomos,Primates,Cercopithecidae,Colobus,polykomos,,King colobus
+696,1403020000,Vicugna,Artiodactyla,Camelidae,Vicugna,,,
+697,1403020100,Vicugna vicugna,Artiodactyla,Camelidae,Vicugna,vicugna,,Vicuña
+698,1800000000,"	Scandentia","	Scandentia",,,,,
+699,1801000000,Tupaiidae,"	Scandentia",Tupaiidae,,,,
+700,1801010000,Tupaia,"	Scandentia",Tupaiidae,Tupaia,,,tree shrew
+701,1107000000,Phyllostomidae,Chiroptera,Phyllostomidae,,,,
+702,1107010000,Desmodus,Chiroptera,Phyllostomidae,Desmodus,,,
+703,1107010100,Desmodus rotundus,Chiroptera,Phyllostomidae,Desmodus,rotundus,,Common vampire bat
+704,712020000,"	Hydrochoerus",Rodentia,Caviidae,"	Hydrochoerus",,,
+705,712020100,Hydrochoerus hydrochaeris,Rodentia,Caviidae,"	Hydrochoerus",hydrochaeris,,Capybara
+706,608000000,Aotidae,Primates,Aotidae,,,,
+707,608010000,"	Aotus",Primates,Aotidae,"	Aotus",,,
+708,608010100,Aotus trivirgatus,Primates,Aotidae,"	Aotus",trivirgatus,,Three-striped night monkey
+709,704030500,Chaetodipus intermedius,Rodentia,Heteromyidae,Chaetodipus,intermedius,,Rock Pocket Mouse
+710,707111300,Peromyscus difficilis,Rodentia,Cricetidae,Peromyscus,difficilis,,Zacatecan Deer Mouse
+711,707010300,Arborimus albipes,Rodentia,Cricetidae,Arborimus,albipes,,White-footed Vole
+712,704040300,Perognathus flavus,Rodentia,Heteromyidae,Perognathus,flavus,,Silky Pocket Mouse
+713,1101020000,"	Rousettus",Chiroptera,Pteropodidae,"	Rousettus",,,
+714,1101020100,Rousettus aegyptiacus,Chiroptera,Pteropodidae,"	Rousettus",aegyptiacus,,Egyptian fruit bat
+715,1108000000,Hipposideridae,Chiroptera,Hipposideridae,,,,
+716,1108010000,Cloeotis,Chiroptera,Hipposideridae,Cloeotis,,,
+717,1108010100,Cloeotis percivali,Chiroptera,Hipposideridae,Cloeotis,percivali,,Percival's trident bat
+718,1108020000,Hipposideros,Chiroptera,Hipposideridae,Hipposideros,,,
+719,1108020100,Hipposideros caffer,Chiroptera,Hipposideridae,Hipposideros,caffer,,Sundevall's roundleaf bat
+720,1109000000,Miniopteridae,Chiroptera,Miniopteridae,,,,
+721,1109010000,"	Miniopterus",Chiroptera,Miniopteridae,"	Miniopterus",,,
+722,1109010100,Miniopterus schreibersii,Chiroptera,Miniopteridae,"	Miniopterus",schreibersii,,Common bent-wing bat
+723,1110000000,Rhinolophidae,Chiroptera,Rhinolophidae,,,,
+724,1110010000,Rhinolophus,Chiroptera,Rhinolophidae,Rhinolophus,,,Horseshoe bat
+725,1106010100,Nycteris thebaica,Chiroptera,Nycteridae,Nycteris,thebaica,,Egyptian slit-faced bat
+726,1110010100,Rhinolophus simulator,Chiroptera,Rhinolophidae,Rhinolophus,simulator,,Bushveld horseshoe bat
+727,1408020000,"	Grampus",Artiodactyla,Delphinidae,"	Grampus",,,
+728,1408020100,Grampus griseus,Artiodactyla,Delphinidae,"	Grampus",griseus,,Risso's dolphin
+729,707111400,Peromyscus eva,Rodentia,Cricetidae,Peromyscus,eva,,Eva's Desert Mouse
+730,604050000,Presbytis,Primates,Cercopithecidae,Presbytis,,,Leaf monkey
+731,609000000,Atelidae,Primates,Atelidae,,,,
+732,609010000,Ateles,Primates,Atelidae,Ateles,,,Spider monkey
+733,802030600,Sylvilagus mansuetus,Lagomorpha,Leporidae,Sylvilagus,mansuetus,,San José brush rabbit
+734,702040400,Ammospermophilus interpres,Rodentia,Sciuridae,Ammospermophilus,interpres,,Texas antelope squirrel
+735,1408030000,"	Globicephala",Artiodactyla,Delphinidae,"	Globicephala",,,
+736,1408030100,Globicephala macrorhynchus,Artiodactyla,Delphinidae,"	Globicephala",macrorhynchus,,Short-finned pilot whale
+737,1900000000,Dasyuromorphia,Dasyuromorphiaa,,,,,
+738,1901000000,"	Dasyuridae",Dasyuromorphiaa,"	Dasyuridae",,,,
+739,1901010000,Antechinus,Dasyuromorphiaa,"	Dasyuridae",Antechinus,,,
+740,802010600,Lepus arcticus,Lagomorpha,Leporidae,Lepus,arcticus,,Arctic hare
+741,1412000000,Eschrichtiidae,Artiodactyla,Eschrichtiidae,,,,
+742,1412010000,Eschrichtius,Artiodactyla,Eschrichtiidae,Eschrichtius,,,
+743,1412010100,Eschrichtius robustus,Artiodactyla,Eschrichtiidae,Eschrichtius,robustus,,Gray whale
+744,2000000000,Monotremata,Monotremata,,,,,
+745,2001000000,Tachyglossidae,Monotremata,Tachyglossidae,,,,
+746,2001010000,Tachyglossus,Monotremata,Tachyglossidae,Tachyglossus,,,
+747,2001010100,Tachyglossus aculeatus,Monotremata,Tachyglossidae,Tachyglossus,aculeatus,,Short-beaked echidna
+749,204000000,"	Vombatidae",Diprotodontia,"	Vombatidae",,,,
+750,204010000,Vombatus,Diprotodontia,"	Vombatidae",Vombatus,,,
+751,204010100,Vombatus ursinus,Diprotodontia,"	Vombatidae",Vombatus,ursinus,,Common wombat
+752,205000000,Petauridae,Diprotodontia,Petauridae,,,,
+753,205010000,Petaurus,Diprotodontia,Petauridae,Petaurus,,,
+754,205010100,Petaurus australis,Diprotodontia,Petauridae,Petaurus,australis,,Yellow-bellied glider
+755,2100000000,Peramelemorphia,Peramelemorphia,,,,,
+756,2101000000,Peramelidae,Peramelemorphia,Peramelidae,,,,
+757,2101010000,"	Isoodon",Peramelemorphia,Peramelidae,"	Isoodon",,,
+758,2101010100,Isoodon obesulus,Peramelemorphia,Peramelidae,"	Isoodon",obesulus,,Southern brown bandicoot
+759,1901010100,Antechinus stuartii,Dasyuromorphiaa,"	Dasyuridae",Antechinus,stuartii,,Brown Antechinus
+760,708070000,Notomys,Rodentia,Muridae,Notomys,,,
+761,708070100,Notomys alexis,Rodentia,Muridae,Notomys,alexis,,Spinifex hopping mouse
+762,708080000,Meriones,Rodentia,Muridae,Meriones,,,Gerbil
+763,1211030000,Conepatus,Carnivora,Mephitidae,Conepatus,,,
+764,1211030100,Conepatus leuconotus,Carnivora,Mephitidae,Conepatus,leuconotus,,American hog-nosed skunk
+765,707111500,Peromyscus caniceps,Rodentia,Cricetidae,Peromyscus,caniceps,,Burt's Deer Mouse
+766,1207040000,Arctocephalus,Carnivora,Otariidae,Arctocephalus,,,
+767,1207040100,Arctocephalus pusillus,Carnivora,Otariidae,Arctocephalus,pusillus,,Brown fur seal
+768,1409020000,Mesoplodon,Artiodactyla,Ziphiidae,Mesoplodon,,,
+769,1409020100,Mesoplodon carlhubbsi,Artiodactyla,Ziphiidae,Mesoplodon,carlhubbsi,,Hubbs' beaked whale
+770,1408040000,Lissodelphis,Artiodactyla,Delphinidae,Lissodelphis,,,
+771,1408040100,Lissodelphis borealis,Artiodactyla,Delphinidae,Lissodelphis,borealis,,Northern right whale dolphin
+772,1401020200,Phacochoerus aethiopicus,Artiodactyla,Suidae,Phacochoerus,aethiopicus,,Desert warthog
+773,604020200,Papio ursinus,Primates,Cercopithecidae,Papio,ursinus,,Chacma baboon
+774,1201110100,Caracal caracal,Carnivora,Felidae,Caracal,caracal,,Caracal
+775,718000000,Bathyergidae,Rodentia,Bathyergidae,,,,
+776,718010000,Bathyergus,Rodentia,Bathyergidae,Bathyergus,,,Dune mole rat
+777,707140000,Phenacomys,Rodentia,Cricetidae,Phenacomys,,,
+778,707140100,Phenacomys intermedius,Rodentia,Cricetidae,Phenacomys,intermedius,,Western heather vole
+779,1411020000,Neophocaena,Artiodactyla,Phocoenidae,Neophocaena,,,
+780,1411020100,Neophocaena phocaenoides,Artiodactyla,Phocoenidae,Neophocaena,phocaenoides,,Finless porpoise
+781,1408050000,Stenella,Artiodactyla,Delphinidae,Stenella,,,
+782,1408050100,Stenella longirostris,Artiodactyla,Delphinidae,Stenella,longirostris,,Spinner dolphin
+783,1413000000,Pontoporiidae,Artiodactyla,Pontoporiidae,,,,
+784,1413010000,Pontoporia,Artiodactyla,Pontoporiidae,Pontoporia,,,
+785,1413010100,Pontoporia blainvillei,Artiodactyla,Pontoporiidae,Pontoporia,blainvillei,,La Plata dolphin
+786,1411030000,Phocoenoides,Artiodactyla,Phocoenidae,Phocoenoides,,,
+787,1411030100,Phocoenoides dalli,Artiodactyla,Phocoenidae,Phocoenoides,dalli,,Dall's porpoise
+788,1408060000,Tursiops,Artiodactyla,Delphinidae,Tursiops,,,
+789,1408060100,Tursiops truncatus,Artiodactyla,Delphinidae,Tursiops,truncatus,,Common bottlenose dolphin
+790,1408070000,Delphinus,Artiodactyla,Delphinidae,Delphinus,,,
+791,1408070100,Delphinus bairdii,Artiodactyla,Delphinidae,Delphinus,bairdii,,
+792,707090600,Neotoma mexicana,Rodentia,Cricetidae,Neotoma,mexicana,,Mexican Woodrat
+793,704030600,Chaetodipus baileyi,Rodentia,Heteromyidae,Chaetodipus,baileyi,,Bailey's Pocket Mouse
+794,1105080000,Idionycteris,Chiroptera,Vespertilionidae,Idionycteris,,,
+795,1105080100,Idionycteris phyllotis,Chiroptera,Vespertilionidae,Idionycteris,phyllotis,,Allen's Big-eared Bat
+796,702010500,Sciurus nayaritensis,Rodentia,Sciuridae,Sciurus,nayaritensis,,Mexican fox squirrel
+797,206000000,"	Phascolarctidae",Diprotodontia,"	Phascolarctidae",,,,
+798,206010000,"	Phascolarctos",Diprotodontia,"	Phascolarctidae","	Phascolarctos",,,
+799,206010100,Phascolarctos cinereus,Diprotodontia,"	Phascolarctidae","	Phascolarctos",cinereus,,Koala
+800,1210100000,Aonyx,Carnivora,Mustelidae,Aonyx,,,
+801,1210100100,Aonyx cinereus,Carnivora,Mustelidae,Aonyx,cinereus,,Asian small-clawed otter
+802,1408080000,Lagenorhynchus,Artiodactyla,Delphinidae,Lagenorhynchus,,,
+803,1408080100,Lagenorhynchus obliquidens,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,,Pacific white-sided dolphin
+804,704030700,Chaetodipus californicus,Rodentia,Heteromyidae,Chaetodipus,californicus,,California Pocket Mouse
+805,2200000000,Sirenia,Sirenia,,,,,
+806,2201000000,Dugongidae,Sirenia,Dugongidae,,,,
+807,2201010000,Dugong,Sirenia,Dugongidae,Dugong,,,
+808,2201010100,Dugong dugon,Sirenia,Dugongidae,Dugong,dugon,,Dugong
+811,1209010200,Phoca hispida,Carnivora,Phocidae,Phoca,hispida,,Ringed seal
+812,1209040000,Erignathus,Carnivora,Phocidae,Erignathus,,,
+813,1209040100,Erignathus barbatus,Carnivora,Phocidae,Erignathus,barbatus,,Bearded seal
+814,1501010200,Erinaceus europaeus,Erinaceomorpha,Erinaceidae,Erinaceus,europaeus,,European hedgehog
+815,1408090000,Pseudorca,Artiodactyla,Delphinidae,Pseudorca,,,
+816,1408090100,Pseudorca crassidens,Artiodactyla,Delphinidae,Pseudorca,crassidens,,False killer whale
+817,1414000000,Physeteridae,Artiodactyla,Physeteridae,,,,
+818,1414010000,"	Physeter",Artiodactyla,Physeteridae,"	Physeter",,,
+819,1414010100,Physeter macrocephalus,Artiodactyla,Physeteridae,"	Physeter",macrocephalus,,Sperm whale
+820,1415000000,Kogiidae,Artiodactyla,Kogiidae,,,,
+821,1415010000,Kogia,Artiodactyla,Kogiidae,Kogia,,,
+822,1415010100,Kogia breviceps,Artiodactyla,Kogiidae,Kogia,breviceps,,Pygmy sperm whale
+823,1409030000,Berardius,Artiodactyla,Ziphiidae,Berardius,,,
+824,1409030100,Berardius bairdii,Artiodactyla,Ziphiidae,Berardius,bairdii,,Baird's beaked whale
+825,1411030200,Phocoenoides truei,Artiodactyla,Phocoenidae,Phocoenoides,truei,,Dall's porpoise
+826,1408100000,Steno,Artiodactyla,Delphinidae,Steno,,,
+827,1408100100,Steno bredanensis,Artiodactyla,Delphinidae,Steno,bredanensis,,Rough-toothed dolphin
+828,1408110000,Feresa,Artiodactyla,Delphinidae,Feresa,,,
+829,1408110100,Feresa attenuata,Artiodactyla,Delphinidae,Feresa,attenuata,,Pygmy killer whale
+830,1408050200,Stenella coeruleoalba,Artiodactyla,Delphinidae,Stenella,coeruleoalba,,Striped dolphin
+831,1408120000,"	Peponocephala",Artiodactyla,Delphinidae,"	Peponocephala",,,
+832,1408120100,Peponocephala electra,Artiodactyla,Delphinidae,"	Peponocephala",electra,,Melon-headed whale
+833,1416000000,Iniidae,Artiodactyla,Iniidae,,,,
+834,1416010000,Inia,Artiodactyla,Iniidae,Inia,,,
+835,1416010100,Inia geoffrensis,Artiodactyla,Iniidae,Inia,geoffrensis,,Amazon river dolphin
+836,1409020200,Mesoplodon stejnegeri,Artiodactyla,Ziphiidae,Mesoplodon,stejnegeri,,Stejneger's Beaked Whale
+837,1417000000,Monodontidae,Artiodactyla,Monodontidae,,,,
+838,1417010000,Delphinapterus,Artiodactyla,Monodontidae,Delphinapterus,,,
+839,1417010100,Delphinapterus leucas,Artiodactyla,Monodontidae,Delphinapterus,leucas,,Beluga whale
+840,1407010200,Balaenoptera physalus,Artiodactyla,Balaenopteridae,Balaenoptera,physalus,,Fin whale
+841,1407010300,Balaenoptera borealis,Artiodactyla,Balaenopteridae,Balaenoptera,borealis,,Sei whale
+842,1407010400,Balaenoptera musculus,Artiodactyla,Balaenopteridae,Balaenoptera,musculus,,Blue whale
+843,1407010500,Balaenoptera edeni,Artiodactyla,Balaenopteridae,Balaenoptera,edeni,,Eden's whale
+844,1418000000,Balaenidae,Artiodactyla,Balaenidae,,,,
+845,1418010000,Eubalaena,Artiodactyla,Balaenidae,Eubalaena,,,
+846,1418010100,Eubalaena glacialis,Artiodactyla,Balaenidae,Eubalaena, glacialis,,North Atlantic right whale
+847,1407020000,"	Megaptera",Artiodactyla,Balaenopteridae,"	Megaptera",,,
+848,1407020100,Megaptera novaeangliae,Artiodactyla,Balaenopteridae,"	Megaptera",novaeangliae,,Humpback whale
+849,707111600,Peromyscus pseudocrinitus,Rodentia,Cricetidae,Peromyscus,pseudocrinitus,,False Canyon Mouse
+850,704030800,Chaetodipus spinatus,Rodentia,Heteromyidae,Chaetodipus,spinatus,,Spiny Pocket Mouse
+851,1205040000,Otocyon,Carnivora,Canidae,Otocyon,,,
+852,1205040100,Otocyon megalotis,Carnivora,Canidae,Otocyon,megalotis,,Bat-eared fox
+853,802010700,Lepus saxatilis,Lagomorpha,Leporidae,Lepus,saxatilis,,Scrub hare
+854,802040000,Pronolagus,Lagomorpha,Leporidae,Pronolagus,,,
+855,802040100,Pronolagus randensis,Lagomorpha,Leporidae,Pronolagus,randensis,,Jameson's red rock hare
+856,1201020400,Felis lybica,Carnivora,Felidae,Felis,lybica,,African wildcat
+857,1205030500,Vulpes chama,Carnivora,Canidae,Vulpes,chama,,Cape fox
+858,1210110000,Mellivora,Carnivora,Mustelidae,Mellivora,,,
+859,1210110100,Mellivora capensis,Carnivora,Mustelidae,Mellivora,capensis,,Honey badger
+860,719000000,Pedetidae,Rodentia,Pedetidae,,,,
+861,719010000,Pedetes,Rodentia,Pedetidae,Pedetes,,,
+862,719010100,Pedetes capensis,Rodentia,Pedetidae,Pedetes,capensis,,South African springhare
+863,1203040000,Suricata,Carnivora,Herpestidae,Suricata,,,
+864,1203040100,Suricata suricatta,Carnivora,Herpestidae,Suricata,suricatta,,Meerkat
+865,1203050000,Cynictis,Carnivora,Herpestidae,Cynictis,,,
+866,1203050100,Cynictis penicillata,Carnivora,Herpestidae,Cynictis,penicillata,,Yellow mongoose
+868,1203060000,Helogale,Carnivora,Herpestidae,Helogale,,,
+869,1203060100,Helogale parvula,Carnivora,Herpestidae,Helogale,parvula,,Common dwarf mongoose
+870,1210120000,Ictonyx,Carnivora,Mustelidae,Ictonyx,,,
+871,1210120100,Ictonyx striatus,Carnivora,Mustelidae,Ictonyx,striatus,,Striped polecat
+872,1101030000,Eidolon,Chiroptera,Pteropodidae,Eidolon,,,
+873,1101030100,Eidolon helvum,Chiroptera,Pteropodidae,Eidolon,helvum,,Straw-coloured fruit bat
+874,702140000,Xerus,Rodentia,Sciuridae,Xerus,,,
+875,702140100,Xerus princeps,Rodentia,Sciuridae,Xerus,princeps,,Mountain ground squirrel
+876,702140200,Xerus inaurus,Rodentia,Sciuridae,Xerus,inaurus,,Cape ground squirrel
+877,702150000,"	Paraxerus",Rodentia,Sciuridae,"	Paraxerus",,,
+878,702150100,Paraxerus cepapi,Rodentia,Sciuridae,"	Paraxerus",capapi,,Smith's bush squirrel
+879,1105090000,Scotophilus,Chiroptera,Vespertilionidae,Scotophilus,,,
+880,1105090100,Scotophilus nigrita,Chiroptera,Vespertilionidae,Scotophilus,nigrita,,Schreber's yellow bat
+881,702160000,Funisciurus,Rodentia,Sciuridae,Funisciurus,,,
+882,702160100,Funisciurus congicus,Rodentia,Sciuridae,Funisciurus,congicus,,Congo rope squirrel
+883,2300000000,Macroscelidea,Macroscelidea,,,,,
+884,2301000000,Macroscelididae,Macroscelidea,Macroscelididae,,,,
+885,2301010000,Elephantulus,Macroscelidea,Macroscelididae,Elephantulus,,,Elephant shrew
+886,2301020000,Macroscelides,Macroscelidea,Macroscelididae,Macroscelides,,,
+887,2301020100,Macroscelides proboscideus,Macroscelidea,Macroscelididae,Macroscelides,proboscideus,,Round-eared elephant shrew
+888,720000000,Petromuridae,Rodentia,Petromuridae,,,,
+889,720010000,Petromus,Rodentia,Petromuridae,Petromus,,,
+890,720010100,Petromus typicus,Rodentia,Petromuridae,Petromus,typicus,,Dassie rat
+891,718010100,Bathyergus suillus,Rodentia,Bathyergidae,Bathyergus,suillus,,Cape dune mole-rat
+892,718020000,Cryptomys,Rodentia,Bathyergidae,Cryptomys,,,
+893,718020100,Cryptomys hottentotus,Rodentia,Bathyergidae,Cryptomys,hottentotus,,Common mole-rat
+894,708090000,Parotomys,Rodentia,Muridae,Parotomys,,,
+895,708090100,Parotomys brantsii,Rodentia,Muridae,Parotomys,brantsii,,Brants' whistling rat
+896,708090200,Parotomys littledalei,Rodentia,Muridae,Parotomys,littledalei,,Littledale's whistling rat
+897,708100000,Gerbilliscus,Rodentia,Muridae,Gerbilliscus,,,
+898,708100100,Gerbilliscus brantsii,Rodentia,Muridae,Gerbilliscus,brantsii,,Highveld gerbil
+902,708100200,Gerbilliscus leucogaster,Rodentia,Muridae,Gerbilliscus,leucogaster,,Bushveld gerbil
+903,708110000,Desmodillus,Rodentia,Muridae,Desmodillus,,,
+904,708110100,Desmodillus auricularis,Rodentia,Muridae,Desmodillus,auricularis,,Cape short-eared gerbil
+905,708120000,Gerbillurus,Rodentia,Muridae,Gerbillurus,,,
+906,708120100,Gerbillurus vallinus,Rodentia,Muridae,Gerbillurus,vallinus,,Bushy-tailed hairy-footed gerbil
+908,708040100,Otomys irroratus,Rodentia,Muridae,Otomys,irroratus,,Southern African vlei rat
+909,708040200,Otomys laminatus,Rodentia,Muridae,Otomys,laminatus,,Laminate Vlei Rat
+911,708130000,Myotomys,Rodentia,Muridae,Myotomys,,,
+912,708130100,Myotomys unisulcatus,Rodentia,Muridae,Myotomys,unisulcatus,,Bush vlei rat
+913,708040300,Otomys angoniensis,Rodentia,Muridae,Otomys,angoniensis,,Angoni Vlei Rat
+914,708120200,Gerbillurus paeba,Rodentia,Muridae,Gerbillurus,paeba,,Hairy-footed gerbil
+915,714010000,Mystromys,Rodentia,"	Nesomyidae",Mystromys,,,
+916,714010100,Mystromys albicaudatus,Rodentia,"	Nesomyidae",Mystromys,albicaudatus,,White-tailed rat
+917,708140000,Thallomys,Rodentia,Muridae,Thallomys,,,
+918,708140100,Thallomys paedulcus,Rodentia,Muridae,Thallomys,paedulcus,,
+919,714030000,Saccostomus,Rodentia,"	Nesomyidae",Saccostomus,,,
+920,714030100,Saccostomus campestris,Rodentia,"	Nesomyidae",Saccostomus,campestris,,South African pouched mouse
+921,721000000,Gliridae,Rodentia,Gliridae,,,,
+922,721010000,"	Graphiurus",Rodentia,Gliridae,"	Graphiurus",,,
+923,721010100,Graphiurus murinus,Rodentia,Gliridae,"	Graphiurus",murinus,,Woodland dormouse
+924,708150000,Pelomys,Rodentia,Muridae,Pelomys,,,
+925,708160000,Lophuromys,Rodentia,Muridae,Lophuromys,,,
+926,708170000,Mastomys,Rodentia,Muridae,Mastomys,,,
+927,708170100,Mastomys natalensis,Rodentia,Muridae,Mastomys,natalensis,,Natal multimammate mouse
+929,708180000,Aethomys,Rodentia,Muridae,Aethomys,,,
+930,708180100,Aethomys namaquensis,Rodentia,Muridae,Aethomys,namaquensis,,Rock rat
+931,708190000,Lemniscomys,Rodentia,Muridae,Lemniscomys,,,
+932,708190100,Lemniscomys griselda,Rodentia,Muridae,Lemniscomys,griselda,,Griselda's striped grass mouse
+933,708200000,Rhabdomys,Rodentia,Muridae,Rhabdomys,,,
+934,708200100,Rhabdomys pumilio,Rodentia,Muridae,Rhabdomys,pumilio,,Four-striped grass mouse
+935,714040000,Steatomys,Rodentia,"	Nesomyidae",Steatomys,,,
+936,718030000,Georychus,Rodentia,Bathyergidae,Georychus,,,
+937,718030100,Georychus capensis,Rodentia,Bathyergidae,Georychus,capensis,,Cape mole-rat
+938,2400000000,Afrosoricida,Afrosoricida,,,,,
+939,2401000000,Chrysochloridae,Afrosoricida,Chrysochloridae,,,,
+940,2401010000,Eremitalpa,Afrosoricida,Chrysochloridae,Eremitalpa,,,
+941,2401010100,Eremitalpa granti,Afrosoricida,Chrysochloridae,Eremitalpa,granti,,Grant's golden mole
+942,714050000,Petromyscus,Rodentia,"	Nesomyidae",Petromyscus,,,
+943,1108030000,Macronycteris,Chiroptera,Hipposideridae,Macronycteris,,,
+944,1108030100,Macronycteris commersoni,Chiroptera,Hipposideridae,Macronycteris,commersoni,,Commerson's roundleaf bat
+945,722000000,Heterocephalidae,Rodentia,Heterocephalidae,,,,
+946,722010000,Heterocephalus,Rodentia,Heterocephalidae,Heterocephalus,,,
+947,722010100,Heterocephalus glaber,Rodentia,Heterocephalidae,Heterocephalus,glaber,,Naked mole-rat
+948,2401020000,Chrysochloris,Afrosoricida,Chrysochloridae,Chrysochloris,,,
+949,2401020100,Chrysochloris asiatica,Afrosoricida,Chrysochloridae,Chrysochloris,asiatica,,Cape golden mole
+950,2500000000,Pholidota,Pholidota,,,,,
+951,2501000000,Manidae,Pholidota,Manidae,,,,
+952,2501010000,Smutsia,Pholidota,Manidae,Smutsia,,,
+953,2501010100,Smutsia temminckii,Pholidota,Manidae,Smutsia,temminckii,,Ground pangolin
+955,1002020200,Blarina carolinensis,Soricomorpha,Soricidae,Blarina,carolinensis,,Southern short-tailed shrew
+956,1105060900,Myotis septentrionalis,Chiroptera,Vespertilionidae,Myotis,septentrionalis,,northern long-eared bat
+957,707040200,Lemmus sibiricus,Rodentia,Cricetidae,Lemmus,sibiricus,,Siberian brown lemming
+958,1002031100,Sorex monticolus,Soricomorpha,Soricidae,Sorex,monticolus,,Montane Shrew
+959,1105061000,Myotis ciliolabrum,Chiroptera,Vespertilionidae,Myotis,ciliolabrum,,Western small-footed myotis
+960,705020300,Thomomys monticola,Rodentia,Geomyidae,Thomomys,monticola,,Mountain Pocket Gopher
+961,602030000,Callithrix,Primates,Callitrichidae,Callithrix,,,
+962,602030100,Callithrix jacchus,Primates,Callitrichidae,Callithrix,jacchus,,Common marmoset
+964,1801010100,Tupaia glis,"	Scandentia",Tupaiidae,Tupaia,glis,,Common treeshrew
+966,704011100,Dipodomys ingens,Rodentia,Heteromyidae,Dipodomys,ingens,,Giant Kangaroo Rat
+970,1107020000,Macrotus,Chiroptera,Phyllostomidae,Macrotus,,,
+971,1107020100,Macrotus californicus,Chiroptera,Phyllostomidae,Macrotus,californicus,,California leaf-nosed bat
+972,1107030000,"	Artibeus",Chiroptera,Phyllostomidae,"	Artibeus",,,
+973,1107030100,Artibeus lituratus,Chiroptera,Phyllostomidae,"	Artibeus",lituratus,,Great fruit-eating bat
+974,1107040000,Glossophaga,Chiroptera,Phyllostomidae,Glossophaga,,,
+975,1107040100,Glossophaga soricina,Chiroptera,Phyllostomidae,Glossophaga,soricina,,Pallas's long-tongued bat
+976,707050800,Microtus richardsoni,Rodentia,Cricetidae,Microtus,richardsoni,,Water vole
+977,1201070300,Panthera leo,Carnivora,Felidae,Panthera,leo,,Lion
+978,1107030200,Artibeus cinereus,Chiroptera,Phyllostomidae,"	Artibeus",cinereus,,Gervais's Fruit-eating Bat
+979,1111000000,Thyropteridae,Chiroptera,Thyropteridae,,,,
+980,1111010000,Thyroptera,Chiroptera,Thyropteridae,Thyroptera,,,
+981,1111010100,Thyroptera tricolor,Chiroptera,Thyropteridae,Thyroptera,tricolor,,Spix's disk-winged bat
+982,1107050000,"	Carollia",Chiroptera,Phyllostomidae,"	Carollia",,,
+983,1107050100,Carollia perspicillata,Chiroptera,Phyllostomidae,"	Carollia",perspicillata,,Seba's short-tailed bat
+984,1107050200,Carollia subrufa,Chiroptera,Phyllostomidae,"	Carollia",subrufa,,Gray Short-tailed Bat
+985,1107060000,Phyllostomus,Chiroptera,Phyllostomidae,Phyllostomus,,,
+986,1107060100,Phyllostomus discolor,Chiroptera,Phyllostomidae,Phyllostomus,discolor,,Pale spear-nosed bat
+987,1107070000,Vampyrodes,Chiroptera,Phyllostomidae,Vampyrodes,,,
+988,1107070100,Vampyrodes major,Chiroptera,Phyllostomidae,Vampyrodes,major,,Stripe-faced bat
+989,1107080000,Choeroniscus,Chiroptera,Phyllostomidae,Choeroniscus,,,
+990,1107080100,Choeroniscus godmani,Chiroptera,Phyllostomidae,Choeroniscus,godmani,,Godman's long-tailed bat
+991,1107060200,Phyllostomus hastatus,Chiroptera,Phyllostomidae,Phyllostomus,hastatus,,Greater spear-nosed bat
+992,1112000000,Emballonuridae,Chiroptera,Emballonuridae,,,,
+993,1112010000,Balantiopteryx,Chiroptera,Emballonuridae,Balantiopteryx,,,
+994,1112010100,Balantiopteryx plicata,Chiroptera,Emballonuridae,Balantiopteryx,plicata,,Gray sac-winged bat
+995,1103010200,Noctilio labialis,Chiroptera,Noctilionidae,Noctilio,labialis,,Southern bulldog hat
+996,1107090000,"	Sturnira",Chiroptera,Phyllostomidae,"	Sturnira",,,
+997,1107090100,Sturnira lilium,Chiroptera,Phyllostomidae,"	Sturnira",lilium,,Little yellow-shouldered bat
+998,1207050000,"	Otaria",Carnivora,Otariidae,"	Otaria",,,
+999,1207050100,Otaria flavescens,Carnivora,Otariidae,"	Otaria",flavescens,,South American sea lion
+1000,1102020000,Pteronotus,Chiroptera,Mormoopidae,Pteronotus,,,
+1001,1102020100,Pteronotus parnellii,Chiroptera,Mormoopidae,Pteronotus,parnellii,,Parnell's mustached bat
+1002,1113000000,Natalidae,Chiroptera,Natalidae,,,,
+1003,1113010000,"	Natalus",Chiroptera,Natalidae,"	Natalus",,,
+1004,1113010100,Natalus stramineus,Chiroptera,Natalidae,"	Natalus",stramineus,,Mexican funnel-eared bat
+1005,2202000000,"	Trichechidae",Sirenia,"	Trichechidae",,,,
+1006,2202010000,Trichechus,Sirenia,"	Trichechidae",Trichechus,,,
+1007,2202010100,Trichechus manatus,Sirenia,"	Trichechidae",Trichechus,manatus,,West Indian manatee
+1008,1404050300,Cervus elaphus,Artiodactyla,Cervidae,Cervus,elaphus,,Red deer
+1009,707050900,Microtus xanthognathus,Rodentia,Cricetidae,Microtus,xanthognathus,,Taiga vole
+1010,1408030200,Globicephala scammoni,Artiodactyla,Delphinidae,"	Globicephala",scammoni,,Short-finned pilot whale
+1011,101050000,Monodelphis,Didelphimorphia,Didelphidae,Monodelphis,,,
+1012,101050100,Monodelphis domestica,Didelphimorphia,Didelphidae,Monodelphis,domestica,,Gray short-tailed opossum
+1013,705020400,Thomomys bulbivorus,Rodentia,Geomyidae,Thomomys,bulbivorus,,Camas Pocket Gopher
+1014,702090200,Callospermophilus saturatus,Rodentia,Sciuridae,Callospermophilus,saturatus,,Cascade golden-mantled ground squirrel
+1015,1105100000,Nycticeius,Chiroptera,Vespertilionidae,Nycticeius,,,
+1016,1105100100,Nycticeius humeralis,Chiroptera,Vespertilionidae,Nycticeius,humeralis,,Evening bat
+1018,702100200,Ictidomys mexicanus,Rodentia,Sciuridae,Ictidomys,mexicanus,,Mexican ground squirrel
+1019,702130200,Xerospermophilus spilosoma,Rodentia,Sciuridae,"	Xerospermophilus",spilosoma,,Spotted Ground Squirrel
+1020,707111700,Peromyscus gossypinus,Rodentia,Cricetidae,Peromyscus,gossypinus,,Cotton Mouse
+1021,707150000,Baiomys,Rodentia,Cricetidae,Baiomys,,,
+1022,707150100,Baiomys taylori,Rodentia,Cricetidae,Baiomys,taylori,,Northern pygmy mouse
+1023,707090700,Neotoma floridana,Rodentia,Cricetidae,Neotoma,floridana,,Eastern Woodrat
+1024,610000000,Tarsiidae,Primates,Tarsiidae,,,,
+1025,610010000,Carlito,Primates,Tarsiidae,Carlito,,,
+1026,610010100,Carlito syrichta,Primates,Tarsiidae,Carlito,syrichta,,Philippine tarsier
+1027,707160000,Oryzomys,Rodentia,Cricetidae,Oryzomys,,,
+1028,707160100,Oryzomys palustris,Rodentia,Cricetidae,Oryzomys,palustris,,Marsh rice rat
+1029,2002000000,Ornithorhynchidae,Monotremata,Ornithorhynchidae,,,,
+1030,2002010000,Ornithorhynchus,Monotremata,Ornithorhynchidae,Ornithorhynchus,,,
+1031,2002010100,Ornithorhynchus anatinus,Monotremata,Ornithorhynchidae,Ornithorhynchus,anatinus,,Platypus
+1032,203030100,Thylogale stigmatica,Diprotodontia,Macropodidae,Thylogale,stigmatica,,Red-legged pademelon
+1033,606020000,Nycticebus,Primates,"	Lorisidae",Nycticebus,,,
+1034,606020100,Nycticebus coucang,Primates,"	Lorisidae",Nycticebus,coucang,,Sunda slow loris
+1035,2501020000,Phataginus,Pholidota,Manidae,Phataginus,,,
+1036,2501020100,Phataginus tricuspis,Pholidota,Manidae,Phataginus,tricuspis,,African tree pangolin
+1037,711030000,Lagostomus,Rodentia,Chinchillidae,Lagostomus,,,
+1038,711030100,Lagostomus maximus,Rodentia,Chinchillidae,Lagostomus,maximus,,Plains viscacha
+1039,1213000000,Nandiniidae,Carnivora,Nandiniidae,,,,
+1040,1213010000,Nandinia,Carnivora,Nandiniidae,Nandinia,,,
+1041,1213010100,Nandinia binotata,Carnivora,Nandiniidae,Nandinia,binotata,,African palm civet
+1042,1203070000,Atilax,Carnivora,Herpestidae,Atilax,,,
+1043,1203070100,Atilax paludinosus,Carnivora,Herpestidae,Atilax,paludinosus,,Marsh mongoose
+1044,1202030000,Viverra,Carnivora,Viverridae,Viverra,,,
+1045,1203070000,Herpestes,Carnivora,Herpestidae,Herpestes,,,
+1047,708080100,Meriones tristrami,Rodentia,Muridae,Meriones,tristrami,,Tristram's jird
+1048,706030000,Jaculus,Rodentia,Dipodidae,Jaculus,,,
+1049,706030100,Jaculus jaculus,Rodentia,Dipodidae,Jaculus,jaculus,,Lesser Egyptian jerboa
+1050,607020000,Varecia,Primates,"	Lemuridae",Varecia,,,
+1051,607020100,Varecia variegata,Primates,"	Lemuridae",Varecia,variegata,,Black-and-white ruffed lemur
+1053,1406300000,Boselaphus,Artiodactyla,Bovidae,Boselaphus,,,
+1054,1406300100,Boselaphus tragocamelus,Artiodactyla,Bovidae,Boselaphus,tragocamelus,,Nilgai
+1056,1406100200,Nanger dama,Artiodactyla,Bovidae,Nanger,dama,,Dama gazelle
+1057,1302020000,Ceratotherium,Perissodactyla,Rhinocerotidae,Ceratotherium,,,
+1058,1302020100,Ceratotherium simum,Perissodactyla,Rhinocerotidae,Ceratotherium,simum,,White rhinoceros
+1059,1404010200,Alces alces,Artiodactyla,Cervidae,Alces,alces,,Moose
+1060,602040000,Callimico,Primates,Callitrichidae,Callimico,,,
+1061,602040100,Callimico goeldii,Primates,Callitrichidae,Callimico,goeldii,,Goeldi's marmoset
+1062,1205050000,Nyctereutes,Carnivora,Canidae,Nyctereutes,,,
+1063,1205050100,Nyctereutes procyonoides,Carnivora,Canidae,Nyctereutes,procyonoides,,Raccoon dog
+1064,1419000000,Tragulus,Artiodactyla,Tragulus,,,,
+1065,1002031200,Sorex fumeus,Soricomorpha,Soricidae,Sorex,fumeus,,Smoky shrew
+1066,707051000,Microtus pinetorum,Rodentia,Cricetidae,Microtus,pinetorum,,Woodland vole
+1068,1002030201,Sorex cinereus fontinalis,Soricomorpha,Soricidae,Sorex,cinereus,fontinalis,Masked Shrew
+1069,1003040000,Condylura,Soricomorpha,Talpidae,Condylura,,,
+1070,1003040100,Condylura cristata,Soricomorpha,Talpidae,Condylura,cristata,,Star-nosed mole
+1071,1003040000,Parascalops,Soricomorpha,Talpidae,Parascalops,,,
+1072,1003040100,Parascalops breweri,Soricomorpha,Talpidae,Parascalops,breweri,,Hairy-tailed mole
+1073,702080800,Urocitellus elegans,Rodentia,Sciuridae,Urocitellus,elegans,,Wyoming ground squirrel
+1074,707160000,Ochrotomys,Rodentia,Cricetidae,Ochrotomys,,,
+1075,707160100,Ochrotomys nuttalli,Rodentia,Cricetidae,Ochrotomys,nuttalli,,Golden mouse
+1076,1105061100,Myotis velifer,Chiroptera,Vespertilionidae,Myotis,velifer,,Cave myotis
+1077,702130300,Xerospermophilus mohavensis,Rodentia,Sciuridae,"	Xerospermophilus",mohavensis,,Mohave ground squirrel
+1078,704030900,Chaetodipus arenarius,Rodentia,Heteromyidae,Chaetodipus,arenarius,,Little Desert Pocket Mouse
+1079,704011200,Dipodomys peninsularis,Rodentia,Heteromyidae,Dipodomys,peninsularis,,Baja California kangaroo rat
+1080,704011300,Dipodomys stephensi,Rodentia,Heteromyidae,Dipodomys,stephensi,,Stephens' Kangaroo Rat
+1081,707130200,Sigmodon arizonae,Rodentia,Cricetidae,Sigmodon,arizonae,,Arizona Cotton Rat
+1082,602050000,Cebuella,Primates,Callitrichidae,Cebuella,,,
+1083,602050100,Cebuella pygmaea,Primates,Callitrichidae,Cebuella,pygmaea,,Pygmy marmoset
+1084,611000000,Hylobatidae,Primates,Hylobatidae,,,,
+1085,611010000,Symphalangus,Primates,Hylobatidae,Symphalangus,,,
+1086,611010100,Symphalangus syndactylus,Primates,Hylobatidae,Symphalangus,syndactylus,,
+1087,707051100,Microtus miurus,Rodentia,Cricetidae,Microtus,miurus,,Singing Vole
+1088,801010200,Ochotona collaris,Lagomorpha,Ochotonidae,Ochotona,collaris,,Collared pika
+1089,707051200,Microtus oeconomus,Rodentia,Cricetidae,Microtus,oeconomus,,Tundra vole
+1090,1107100000,Platyrrhinus,Chiroptera,Phyllostomidae,Platyrrhinus,,,
+1091,1107100100,Platyrrhinus lineatus,Chiroptera,Phyllostomidae,Platyrrhinus,lineatus,,White-lined broad-nosed bat
+1092,707240000,Akodon,Rodentia,Cricetidae,Akodon,,,
+1094,707250000,Abrothrix,Rodentia,Cricetidae,Abrothrix,,,
+1095,707250100,Abrothrix longipilis,Rodentia,Cricetidae,Abrothrix,longipilis,,Long-haired grass mouse
+1096,707250200,Abrothrix olivacea,Rodentia,Cricetidae,Abrothrix,olivacea,,Olive grass mouse
+1097,707170000,"	Loxodontomys",Rodentia,Cricetidae,"	Loxodontomys",,,
+1098,707170100,Loxodontomys micropus,Rodentia,Cricetidae,"	Loxodontomys",micropus,,Southern big-eared mouse
+1099,707180000,Irenomys,Rodentia,Cricetidae,Irenomys,,,
+1100,707180100,Irenomys tarsalis,Rodentia,Cricetidae,Irenomys,tarsalis,,Chilean climbing mouse
+1101,707190000,Geoxus,Rodentia,Cricetidae,Geoxus,,,
+1102,707190100,Geoxus valdivianus,Rodentia,Cricetidae,Geoxus,valdivianus,,Long-clawed mole mouse
+1103,707160200,Oryzomys longicaudatus,Rodentia,Cricetidae,Oryzomys,longicaudatus,,Long-tailed colilargo
+1104,707200000,Phyllotis,Rodentia,Cricetidae,Phyllotis,,,
+1105,707200100,Phyllotis xanthopygus,Rodentia,Cricetidae,Phyllotis,xanthopygus,,Yellow-rumped leaf-eared mouse
+1106,707210000,Reithrodon,Rodentia,Cricetidae,Reithrodon,,,
+1107,707210100,Reithrodon auritus,Rodentia,Cricetidae,Reithrodon,auritus,,Bunny rat
+1108,1406310000,Gazella,Artiodactyla,Bovidae,Gazella,,,
+1109,1406310100,Gazella dorcas,Artiodactyla,Bovidae,Gazella,dorcas,,Dorcas gazelle
+1110,604060000,Macaca,Primates,Cercopithecidae,Macaca,,,
+1111,604060100,Macaca silenus,Primates,Cercopithecidae,Macaca,silenus,,Lion-tailed macaque
+1112,604060200,Macaca mulatta,Primates,Cercopithecidae,Macaca,mulatta,,Rhesus macaque
+1113,1002031300,Sorex merriami,Soricomorpha,Soricidae,Sorex,merriami,,Merriam's Shrew
+1115,1105090200,Scotophilus dinganii,Chiroptera,Vespertilionidae,Scotophilus,dinganii,,African yellow bat
+1117,1110010200,Rhinolophus landeri,Chiroptera,Rhinolophidae,Rhinolophus,landeri,,Lander's horseshoe bat
+1118,2600000000,Dermoptera,Dermoptera,,,,,
+1119,2601000000,Cynocephalidae,Dermoptera,Cynocephalidae,,,,
+1120,2601010000,Cynocephalus,Dermoptera,Cynocephalidae,Cynocephalus,,,
+1121,2601010100,Cynocephalus volans,Dermoptera,Cynocephalidae,Cynocephalus,volans,,Philippine flying lemur
+1123,707111800,Peromyscus thomasi,Rodentia,Cricetidae,Peromyscus,thomasi,,
+1124,707051100,Microtus mexicanus,Rodentia,Cricetidae,Microtus,mexicanus,,Mexican Vole
+1125,704040400,Perognathus fasciatus,Rodentia,Heteromyidae,Perognathus,fasciatus,,Olive-backed pocket mouse
+1126,1110010300,Rhinolophus clivosus,Chiroptera,Rhinolophidae,Rhinolophus,clivosus,,Geoffroy's horseshoe bat
+1127,1002050100,Crocidura hirta,Soricomorpha,Soricidae,Crocidura,hirta,,Lesser red musk shrew
+1129,714060000,Beamys,Rodentia,"	Nesomyidae",Beamys,,,
+1130,714060100,Beamys hindei,Rodentia,"	Nesomyidae",Beamys,hindei,,Lesser hamster-rat
+1131,708100300,Gerbilliscus robusta,Rodentia,Muridae,Gerbilliscus,robusta,,Fringe-tailed gerbil
+1132,1108040000,Triaenops,Chiroptera,Hipposideridae,Triaenops,,,
+1133,1108040100,Triaenops persicus,Chiroptera,Hipposideridae,Triaenops,persicus,,Rufous trident bat
+1134,718040000,Heliophobius,Rodentia,Bathyergidae,Heliophobius,,,
+1135,718040100,Heliophobius argenteocinereus,Rodentia,Bathyergidae,Heliophobius,argenteocinereus,,Silvery mole-rat
+1136,723000000,Ctenomyidae,Rodentia,Ctenomyidae,,,,
+1137,723010000,Ctenomys,Rodentia,Ctenomyidae,Ctenomys,,,
+1138,2301030000,Rhynchocyon,Macroscelidea,Macroscelididae,Rhynchocyon,,,
+1139,2301030100,Rhynchocyon petersi,Macroscelidea,Macroscelididae,Rhynchocyon,petersi,,Black and rufous elephant shrew
+1140,1101010300,Pteropus mariannus,Chiroptera,Pteropodidae,Pteropus,mariannus,,Mariana fruit bat
+1141,1501020000,Atelerix,Erinaceomorpha,Erinaceidae,Atelerix,,,
+1142,1501020100,Atelerix albiventris,Erinaceomorpha,Erinaceidae,Atelerix,albiventris,,Four-toed hedgehog
+1143,1112020000,Peropteryx,Chiroptera,Emballonuridae,Peropteryx,,,
+1144,1112020100,Peropteryx leucoptera,Chiroptera,Emballonuridae,Peropteryx,leucoptera,,White-winged dog-like bat
+1145,1204030000,Hyaena,Carnivora,Hyaenidae,Hyaena,,,
+1146,1204030100,Hyaena brunnea,Carnivora,Hyaenidae,Hyaena,brunnea,,Brown hyena
+1147,1403030000,Camelus,Artiodactyla,Camelidae,Camelus,,,
+1148,1403030100,Camelus dromedarius,Artiodactyla,Camelidae,Camelus,dromedarius,,Arabian camel
+1149,1002060000,Myosorex,Soricomorpha,Soricidae,Myosorex,,,
+1150,1002060100,Myosorex geata,Soricomorpha,Soricidae,Myosorex,geata,,Geata mouse shrew
+1151,1002070000,Sylvisorex,Soricomorpha,Soricidae,Sylvisorex,,,
+1152,1002070100,Sylvisorex howelli,Soricomorpha,Soricidae,Sylvisorex,howelli,,Howell's forest shrew
+1153,203050000,Wallabia,Diprotodontia,Macropodidae,Wallabia,,,
+1154,203050100,Wallabia bicolor,Diprotodontia,Macropodidae,Wallabia,bicolor,,Swamp wallaby
+1155,205010200,Petaurus breviceps,Diprotodontia,Petauridae,Petaurus,breviceps,,Sugar glider
+1156,707220000,Synaptomys,Rodentia,Cricetidae,Synaptomys,,,
+1157,707220100,Synaptomys borealis,Rodentia,Cricetidae,Synaptomys,borealis,,Northern bog lemming
+1158,707111900,Peromyscus keeni,Rodentia,Cricetidae,Peromyscus,keeni,,Northwestern Deer Mouse
+1159,1203070100,Herpestes javanicus,Carnivora,Herpestidae,Herpestes,javanicus,,Javan mongoose
+1160,207000000,Acrobatidae,Diprotodontia,Acrobatidae,,,,
+1161,207010000,Acrobates,Diprotodontia,Acrobatidae,Acrobates,,,
+1162,207010100,Acrobates pygmaeus,Diprotodontia,Acrobatidae,Acrobates,pygmaeus,,Feathertail glider
+1163,1404080000,Muntiacus,Artiodactyla,Cervidae,Muntiacus,,,
+1164,1404080100,Muntiacus reevesi,Artiodactyla,Cervidae,Muntiacus,reevesi,,Reeves's Muntjac
+1165,707230000,Phodopus,Rodentia,Cricetidae,Phodopus,,,
+1166,707230100,Phodopus sungorus,Rodentia,Cricetidae,Phodopus,sungorus,,Winter white dwarf hamster
+1167,712010200,Cavia tschudii,Rodentia,Caviidae,Cavia,tschudii,,Montane guinea pig
+1168,707112000,Peromyscus fraterculus,Rodentia,Cricetidae,Peromyscus,fraterculus,,Northern Baja Deer Mouse
+1169,707112100,Peromyscus guardia,Rodentia,Cricetidae,Peromyscus,guardia,,Angel Island Mouse
+1170,1107060300,Phyllostomus elongatus,Chiroptera,Phyllostomidae,Phyllostomus,elongatus,,Lesser spear-nosed bat
+1171,1107030300,Artibeus obscurus,Chiroptera,Phyllostomidae,"	Artibeus",obscurus,,Dark Fruit-eating Bat
+1172,1112020000,Saccopteryx,Chiroptera,Emballonuridae,Saccopteryx,,,
+1173,1112020100,Saccopteryx bilineata,Chiroptera,Emballonuridae,Saccopteryx,bilineata,,Greater sac-winged bat
+1174,1207040200,Arctocephalus townsendi,Carnivora,Otariidae,Arctocephalus,townsendi,,Guadalupe fur seal
+1176,1404040100,Axis axis,Artiodactyla,Cervidae,Axis,axis,,Chital
+1178,501020000,Euphractus,Cingulata,Dasypodidae,Euphractus,,,
+1179,501020100,Euphractus sexcinctus,Cingulata,Dasypodidae,Euphractus,sexcinctus,,
+1180,1101050000,Hypsignathus,Chiroptera,Pteropodidae,Hypsignathus,,,
+1181,1101050100,Hypsignathus monstrosus,Chiroptera,Pteropodidae,Hypsignathus,monstrosus,,Hammer-headed bat
+1182,1101060000,"	Eonycteris",Chiroptera,Pteropodidae,"	Eonycteris",,,
+1183,1101060100,Eonycteris spelaea,Chiroptera,Pteropodidae,"	Eonycteris",spelaea,,Cave nectar bat
+1184,705020500,Thomomys umbrinus,Rodentia,Geomyidae,Thomomys,umbrinus,,Southern pocket gopher
+1185,1205030600,Vulpes zerda,Carnivora,Canidae,Vulpes,zerda,,Fennec fox
+1186,707051300,Microtus chrotorrhinus,Rodentia,Cricetidae,Microtus,chrotorrhinus,,Rock vole
+1187,707090800,Neotoma magister,Rodentia,Cricetidae,Neotoma,magister,,Allegheny woodrat
+1188,802030700,Sylvilagus palustris,Lagomorpha,Leporidae,Sylvilagus,palustris,,Marsh rabbit
+1189,1409020300,Mesoplodon peruvianus,Artiodactyla,Ziphiidae,Mesoplodon,peruvianus,,Pygmy Beaked Whale
+1190,1408050300,Stenella clymene,Artiodactyla,Delphinidae,Stenella,clymene,,Clymene dolphin
+1191,602020200,Saguinus oedipus,Primates,Callitrichidae,Saguinus,oedipus,,Cotton-top tamarin
+1192,609010100,Ateles geoffroyi,Primates,Atelidae,Ateles,geoffroyi,,Geoffroy's spider monkey
+1193,1214000000,Ailuridae,Carnivora,Ailuridae,,,,
+1194,1214010000,Ailurus,Carnivora,Ailuridae,Ailurus,,,
+1195,1214010100,Ailurus fulgens,Carnivora,Ailuridae,Ailurus,fulgens,,
+1196,203010400,Macropus rufogriseus,Diprotodontia,Macropodidae,Macropus,rufogriseus,,Red-necked wallaby
+1197,1105110000,Afronycteris,Chiroptera,Vespertilionidae,Afronycteris,,,
+1198,1105110100,Afronycteris nana,Chiroptera,Vespertilionidae,Afronycteris,nanus,,Banana serotine
+1199,1701020000,Myrmecophaga,Pilosa,"	Myrmecophagidae",Myrmecophaga,,,
+1200,1701020100,Myrmecophaga tridactyla,Pilosa,"	Myrmecophagidae",Myrmecophaga,tridactyla,,Giant anteater
+1202,1408060101,Tursiops truncatus gilli,Artiodactyla,Delphinidae,Tursiops,truncatus,gilli,Common bottlenose dolphin
+1203,1408070200,Delphinus delphis,Artiodactyla,Delphinidae,Delphinus,delphis,,Short-beaked common dolphin
+1204,704040500,Perognathus inornatus,Rodentia,Heteromyidae,Perognathus,inornatus,,San Joaquin Pocket Mouse
+1206,708090300,Parotomys typicus,Rodentia,Muridae,Parotomys,typicus,,Dassie Rat
+1207,705020600,Thomomys townsendii,Rodentia,Geomyidae,Thomomys,townsendii,,Townsend's Pocket Gopher
+1208,1408050400,Stenella attenuata,Artiodactyla,Delphinidae,Stenella,attenuata,,Pantropical spotted dolphin
+1209,1002031400,Sorex benderii,Soricomorpha,Soricidae,Sorex,benderii,,Marsh shrew
+1210,1107110000,Rhinophylla,Chiroptera,Phyllostomidae,Rhinophylla,,,
+1211,1107110100,Rhinophylla pumilio,Chiroptera,Phyllostomidae,Rhinophylla,pumilio,,Dwarf little fruit bat
+1212,611020100,Hylobates lar,Primates,Hylobatidae,Hylobates,lar,,Lar Gibbon
+1213,1210130000,"	Neogale",Carnivora,Mustelidae,"	Neogale",,,weasel
+1214,707260000,Megadontomys,Rodentia,Cricetidae,Megadontomys,,,
+1215,707260100,Megadontomys thomasi,Rodentia,Cricetidae,Megadontomys,thomasi,,Thomas’ Big-toothed Deermouse
+1216,1201100000,Leptailurus,Carnivora,Felidae,Leptailurus,,,
+1218,1201110000,Caracal,Carnivora,Felidae,Caracal,,,
+1219,203060000,Osphranter,Diprotodontia,Macropodidae,Osphranter,,,

@@ -1,0 +1,86 @@
+{
+    "Order": {
+        "SORICOMORPHA": [
+            "EULIPOTYPHLA"
+        ],
+        "ERINACEOMORPHA": [
+            "EULIPOTYPHLA"
+        ],
+        "DASYUROMORPHIAA": [
+            "DASYUROMORPHIA"
+        ]
+    },
+    "Family": {
+        "ESCHRICHTIIDAE": [
+            "BALAENOPTERIDAE"
+        ]
+    },
+    "Genus": {
+        "Chaerephon": [
+            "Mops"
+        ],
+        "Myodes": [
+            "Clethrionomys",
+            "Microtus",
+            "Peromyscus",
+            "Oecomys"
+        ],
+        "Galerella": [],
+        "Pecari": [
+            "Dicotyles"
+        ],
+        "Taurotragus": [
+            "Tragelaphus"
+        ],
+        "Zapus": [],
+        "Napaeozapus": [],
+        "Vicugna": [
+            "Lama"
+        ],
+        "Cloeotis": [],
+        "Aonyx": [],
+        "Gerbillurus": [
+            "Gerbilliscus"
+        ],
+        "Myotomys": [
+            "Otomys"
+        ],
+        "Triaenops": [],
+        "Euphractus": []
+    },
+    "Species": {
+        "americanus": [],
+        "mesomelas": [],
+        "natalensis": [],
+        "peruanum": [],
+        "cinereus": [],
+        "cristata": [],
+        "yapensis": [],
+        "eugenii": [],
+        "interparietalis": [],
+        "mansuetus": [],
+        "bairdii": [],
+        "obliquidens": [],
+        "hispida": [],
+        "truei": [],
+        "pseudocrinitus": [],
+        "princeps": [],
+        "inaurus": [],
+        "capapi": [],
+        "namaquensis": [],
+        "commersoni": [],
+        "sibiricus": [],
+        "labialis": [],
+        "scammoni": [],
+        "peninsularis": [],
+        "miurus": [],
+        "oeconomus": [],
+        "longicaudatus": [],
+        "thomasi": [],
+        "robusta": [],
+        "brunnea": [],
+        "javanicus": [],
+        "rufogriseus": [],
+        "typicus": []
+    }
+}
