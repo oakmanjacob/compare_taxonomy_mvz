@@ -1,7 +1,6 @@
 # Taxonomy Updates for the MVZ
 The goal of this project is to compare the records from the Cal Poly Humboldt Museum of Vertibrate Zoology with the most updated taxonomy to find if any of their records are out of date.
 
-## Data Source
 We use information from the [Mammal Diversity Database](https://www.mammaldiversity.org/explore.html) to get the current accepted mammal taxonomy
 
 ## Data Conversion
@@ -19,13 +18,13 @@ optional arguments:
   -o OUT_FILE, --out_file OUT_FILE
 ```
 
+### Input File Format
+The records file must be of a utf-8 csv with fields "order", "family", "genus", and "specificEpithet"
+
 ### Example
 ```
 python .\convert_data.py -i "./mdd/MDD_v1.10_6615species.csv" -o "taxonomy_tree.json"
 ```
-
-### Input File Format
-The records file must be of a utf-8 csv with fields "order", "family", "genus", and "specificEpithet"
 
 ## Data Comparison
 Compare data from the museum collection with the accepted taxonomy tree found in the data conversion step
@@ -44,13 +43,13 @@ optional arguments:
   -oc OUT_DIFF_TAXA, --out_diff_taxa OUT_DIFF_TAXA
 ```
 
+### Records File Format
+The records file must be of a utf-8 csv with fields "Order", "Family", "Genus", and "Species"
+
 ### Example
 ```
 python .\compare_data.py -tf "./out/taxonomy_tree.json" -rf "./mvz/mvz_data.csv" -or "./out/diff_records.csv" -oc "./out/diff_taxa.json"
 ```
-
-### Records File Format
-The records file must be of a utf-8 csv with fields "Order", "Family", "Genus", and "Species"
 
 ## Contributors
 Jacob Oakman
