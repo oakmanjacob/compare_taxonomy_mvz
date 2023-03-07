@@ -52,5 +52,5 @@ python .\compare_data.py -tf "./out/taxonomy_tree.json" -rf "./mvz/mvz_data.csv"
 ```
 
 ## Contributors
-Jacob Oakman    
-Ezra Alberts
+- Jacob Oakman
+- Ezra Alberts
